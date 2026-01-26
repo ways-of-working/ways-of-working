@@ -114,6 +114,8 @@ Supporting files:
 * [Onboarding and induction checklist - by employmenthero](doc/onboarding-and-induction-checklist-by-employme/)
 * [Our Values - What it Means to Work at ZOE](doc/our-values-what-it-means-to-work-at-zoe/)
 * [101 Additional Advices - by Kevin Kelly](doc/101-additional-advices-by-kevin-kelly/)
+* [Agenda for a day of sessions](doc/agenda-for-a-day-of-sessions/)
+
 
 ## Ideas
 
