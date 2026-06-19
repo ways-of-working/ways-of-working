@@ -1,4 +1,4 @@
-# Ways of working for shared spaces, group areas, public rooms, etc.
+# Ways Of Working for shared spaces, group areas, public rooms, etc.
 
 Post relevant information prominently, such as the shared space's phone numbers, wifi codes, room reservations, etc.
 

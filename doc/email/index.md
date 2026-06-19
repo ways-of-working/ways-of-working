@@ -1,4 +1,4 @@
-# Ways of working for email messages, forum posts, group chats, etc.
+# Ways Of Working for email messages, forum posts, group chats, etc.
 
 If you need the reader to do something, then write "ACTION NEEDED", "REPLY REQUESTED", etc.
 

@@ -1,4 +1,4 @@
-# Ways of working for respect
+# Ways Of Working for respect
 
 Presume good-faith intentions.
 

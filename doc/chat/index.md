@@ -1,4 +1,4 @@
-# Ways of working for chat and messaging
+# Ways Of Working for chat and messaging
 
 Minimize first messages that are vague, such as "Hi" or "Have a minute?". Instead, state your idea, question, etc.
 

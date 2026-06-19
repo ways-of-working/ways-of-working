@@ -1,12 +1,12 @@
-# Ways of Working for asynchronous remote
+# Ways Of Working for asynchronous remote
 
 Related:
 
-* [Ways of working for communications](../communications)
+* [Ways Of Working for communications](../communications)
 
-* [Ways of working for chat and messaging](../chat)
+* [Ways Of Working for chat and messaging](../chat)
 
-* [Ways of Working for date-time-formats](../date-time-formats)
+* [Ways Of Working for date-time-formats](../date-time-formats)
 
 Ensure that everyone can participate equitably, when they want, where they want.
 

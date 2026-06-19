@@ -1,4 +1,4 @@
-# Ways of working for discussions, forums, chats, etc.
+# Ways Of Working for discussions, forums, chats, etc.
 
 Encourage everyone to participate fully.
 

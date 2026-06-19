@@ -1,4 +1,4 @@
-# Ways of working for mutual interactions
+# Ways Of Working for mutual interactions
 
 Emphasize mutual respect.
 

@@ -1,11 +1,11 @@
-# Ways of working for schedules, calendars, events, etc.
+# Ways Of Working for schedules, calendars, events, etc.
 
 
 ## Most important
 
 Emphasize time for focus and deep work. Example: use the strengths of "[maker's schedule, manager's schedule](http://paulgraham.com/makersschedule.html)".
 
-Ensure all stakeholders know the expectations for availability, attendance, RSVP, and the like.
+Verify all stakeholders know the expectations for availability, attendance, RSVP, and the like.
 
 Automate. Example: use a group schedule system that create a calendar event using a group's first available date and time.
 

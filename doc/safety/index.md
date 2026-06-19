@@ -1,4 +1,4 @@
-# Ways of working for safety and reliability
+# Ways Of Working for safety and reliability
 
 Each teammate knows what to do if another teamate is absent, including who handles what, how, when, and why.
 

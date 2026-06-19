@@ -1,4 +1,4 @@
-# Ways of working for feedback, advice, coaching, etc.
+# Ways Of Working for feedback, advice, coaching, etc.
 
 Ask for feedback often.
 

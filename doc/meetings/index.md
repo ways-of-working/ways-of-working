@@ -1,4 +1,4 @@
-# Ways of working for meetings, briefings, standups, etc.
+# Ways Of Working for meetings, briefings, standups, etc.
 
 
 ## Most important
@@ -7,7 +7,7 @@ Set the stage. Example: "The purpose of this meeting is X because Y".
 
 Announce the agenda. Example: "The plan of this meeting is X because Y".
 
-Optimize the outcome. Example "At the end of this meeting we want X because Y".
+Aim the outcome. Example "At the end of this meeting we want X because Y".
 
 
 ## To focus a meeting

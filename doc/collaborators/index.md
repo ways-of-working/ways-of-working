@@ -1,4 +1,4 @@
-# Ways of working for collaborators, friends, partners, etc.
+# Ways Of Working for collaborators, friends, partners, etc.
 
 View the issue as “we” not “me”.
 

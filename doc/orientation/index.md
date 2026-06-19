@@ -1,4 +1,4 @@
-# Ways of working for orientation, onboarding, welcoming
+# Ways Of Working for orientation, onboarding, welcoming
 
 We use a "people" document. It lists our names, contact information, roles, responsibilities, etc.
 

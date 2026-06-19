@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Ways of working
+title: Ways Of Working
 message: >-
   If you use this work and you want to cite it,
   then you can use the metadata from this file.
@@ -13,8 +13,8 @@ authors:
 identifiers:
   - type: url
     value: 'https://github.com/joelparkerhenderson/ways-of-working/'
-    description: Ways of working
+    description: Ways Of Working
 repository-code: 'https://github.com/joelparkerhenderson/ways-of-working/'
 abstract: >-
-  Ways of working
+  Ways Of Working
 license: See license file

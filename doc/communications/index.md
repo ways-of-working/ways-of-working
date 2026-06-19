@@ -1,4 +1,4 @@
-# Ways of working for communications
+# Ways Of Working for communications
 
 Communications are radiated when events happen, so teammates can be in the loop.
 

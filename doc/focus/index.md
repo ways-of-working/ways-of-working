@@ -1,4 +1,4 @@
-# Ways of working for focus
+# Ways Of Working for focus
 
 Focus is limited so budget it wisely.
 
