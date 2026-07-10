@@ -91,12 +91,11 @@ At the level of NHS England, DHSC, a devolved government, or a local authority, 
 
 ## Maturity model
 
-| Level | Front door | Capture & classification | Acknowledgement & visibility |
-|---|---|---|---|
-| **Initial** | Many informal channels; much shadow intake | Ad hoc; free-text emails; no demand types | No SLA; requesters chase; demand invisible |
-| **Developing** | A form exists but is inconsistently used; leaders bypass it | Some structure; classification unreliable | Acknowledgement is best-effort; queue partly visible |
-| **Defined** | Single, publicised front door used across all routes | Structured form; demand typed and safety-flagged at the door | Published acknowledgement SLA met; queue visible internally |
-| **Optimizing** | One front door is the cultural norm; shadow intake rare and challenged | Classification drives routing automatically; duplicates merged; patterns analysed | SLA measured and reported; demand trends feed strategy and capacity planning |
+| Dimension | Initial | Developing | Defined | Optimising |
+|---|---|---|---|---|
+| **Front door** | Many informal channels; much shadow intake | A form exists but is inconsistently used; leaders bypass it | Single, publicised front door used across all routes | One front door is the cultural norm; shadow intake rare and challenged |
+| **Capture & classification** | Ad hoc; free-text emails; no demand types | Some structure; classification unreliable | Structured form; demand typed and safety-flagged at the door | Classification drives routing automatically; duplicates merged; patterns analysed |
+| **Acknowledgement & visibility** | No SLA; requesters chase; demand invisible | Acknowledgement is best-effort; queue partly visible | Published acknowledgement SLA met; queue visible internally | SLA measured and reported; demand trends feed strategy and capacity planning |
 
 ## Checklist
 

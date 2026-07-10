@@ -90,12 +90,11 @@ At NHS England, DHSC, or a devolved government, prioritisation is portfolio mana
 
 ## Maturity model
 
-| Level | Method & basis | Run/change & tech debt balance | Transparency & cadence |
-|---|---|---|---|
-| **Initial** | No method; order by seniority or deadline | Run and tech debt invisible; only new work funded | Priorities opaque; changed reactively and constantly |
-| **Developing** | A framework used inconsistently or for some work only | Some awareness of run/debt but no protected capacity | Backlog partly visible; irregular reviews |
-| **Defined** | One primary framework applied consistently; Cost of Delay considered | Ring-fenced capacity for run, tech debt, and safety | Ranked backlog published; fixed re-prioritisation cadence |
-| **Optimizing** | Framework tuned to outcomes/OKRs; capacity- and date-based methods used deliberately | Run/change balance actively managed and reviewed against value | Open trade-off negotiation is the norm; cadence stable; scores sanity-checked against results |
+| Dimension | Initial | Developing | Defined | Optimising |
+|---|---|---|---|---|
+| **Method & basis** | No method; order by seniority or deadline | A framework used inconsistently or for some work only | One primary framework applied consistently; Cost of Delay considered | Framework tuned to outcomes/OKRs; capacity- and date-based methods used deliberately |
+| **Run/change & tech debt balance** | Run and tech debt invisible; only new work funded | Some awareness of run/debt but no protected capacity | Ring-fenced capacity for run, tech debt, and safety | Run/change balance actively managed and reviewed against value |
+| **Transparency & cadence** | Priorities opaque; changed reactively and constantly | Backlog partly visible; irregular reviews | Ranked backlog published; fixed re-prioritisation cadence | Open trade-off negotiation is the norm; cadence stable; scores sanity-checked against results |
 
 ## Checklist
 

@@ -87,7 +87,7 @@ National and regional bodies — NHS England, ICBs, arms-length bodies — opera
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Accountability | No clear owner; decisions diffuse | SRO named but under-empowered | Empowered SRO with clear terms of reference and RACI | Accountability continuous through change; SROs supported and held to account |
 | Proportionality | Ad hoc; process by habit | Some tiering, inconsistently applied | Published tiers scale with risk and value | Tiers actively tuned; teams self-serve the right level |

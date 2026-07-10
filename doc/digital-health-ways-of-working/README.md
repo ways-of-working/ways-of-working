@@ -47,10 +47,11 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 
 ### Part 4 — Technology, Architecture & Data
 - [Chapter 4.0 — Technical Architecture, Cloud & Legacy](04-00-technical-architecture-cloud-legacy.md)
-- [Chapter 4.1 — Identity & Access Management](04-01-identity-access-management.md)
-- [Chapter 4.2 — Interoperability & Data Standards](04-02-interoperability-data-standards.md)
-- [Chapter 4.3 — Connected Devices, IoT & Clinical Engineering](04-03-connected-devices-iot.md)
-- [Chapter 4.4 — Data, Analytics & Population Health Management](04-04-data-analytics-population-health.md)
+- [Chapter 4.1 — Platforms & Shared Services](04-01-platforms-shared-services.md)
+- [Chapter 4.2 — Identity & Access Management](04-02-identity-access-management.md)
+- [Chapter 4.3 — Interoperability & Data Standards](04-03-interoperability-data-standards.md)
+- [Chapter 4.4 — Connected Devices, IoT & Clinical Engineering](04-04-connected-devices-iot.md)
+- [Chapter 4.5 — Data, Analytics & Population Health Management](04-05-data-analytics-population-health.md)
 
 ### Part 5 — Modes of Delivery
 - [Chapter 5.0 — Product-Led Work](05-00-product-led-work.md)

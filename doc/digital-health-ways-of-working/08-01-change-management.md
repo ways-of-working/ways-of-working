@@ -91,7 +91,7 @@ A national or local public body — NHS England, DHSC, a devolved administration
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Approach | Change equals go-live; no method | A model named but applied thinly | Kotter/ADKAR/Bridges used deliberately | Blended frameworks tailored per stakeholder group |
 | Frontline engagement | Informed after decisions | Consulted late | Co-design before go-live | Staff and champions co-own the change |

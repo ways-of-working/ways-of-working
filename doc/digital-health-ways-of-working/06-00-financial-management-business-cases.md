@@ -84,7 +84,7 @@ At regional and national level — an ICB, NHS England, or a government departme
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Business-case rigour | Ad hoc funding requests; no consistent structure | Five Case Model used for large cases only | Five Case Model and SOC/OBC/FBC applied proportionately across investments | Cases are living instruments, reconciled against reality and used to improve future appraisal |
 | Whole-life costing | Only build cost estimated | Running costs acknowledged but not fully quantified | Total cost of ownership estimated across service life | Whole-life cost tracked against actuals and fed back into estimates |

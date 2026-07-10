@@ -86,12 +86,11 @@ At NHS England, DHSC, or a local authority, triage operates on demand that is of
 
 ## Maturity model
 
-| Level | Criteria & lanes | Who triages & cadence | Saying no & equity |
-|---|---|---|---|
-| **Initial** | No criteria; work handled in arrival or seniority order | Ad hoc individuals; no cadence | "No" is avoided; loudest voice wins |
-| **Developing** | Some informal lanes (urgent vs not); criteria in people's heads | One person triages irregularly | Occasional declines, poorly explained |
-| **Defined** | Published criteria (safety, statutory, size, fit, dependencies); clear fast-track/standard/decline lanes | Small cross-functional board on a fixed cadence | Declines are explained and signposted; criteria applied consistently |
-| **Optimizing** | Criteria weighted and periodically reviewed against outcomes; Cynefin-informed routing to discovery vs delivery | Triage integrated with capacity; fast lane capped and protected | Decline/signpost is routine and trusted; equity of demand actively monitored |
+| Dimension | Initial | Developing | Defined | Optimising |
+|---|---|---|---|---|
+| **Criteria & lanes** | No criteria; work handled in arrival or seniority order | Some informal lanes (urgent vs not); criteria in people's heads | Published criteria (safety, statutory, size, fit, dependencies); clear fast-track/standard/decline lanes | Criteria weighted and periodically reviewed against outcomes; Cynefin-informed routing to discovery vs delivery |
+| **Who triages & cadence** | Ad hoc individuals; no cadence | One person triages irregularly | Small cross-functional board on a fixed cadence | Triage integrated with capacity; fast lane capped and protected |
+| **Saying no & equity** | "No" is avoided; loudest voice wins | Occasional declines, poorly explained | Declines are explained and signposted; criteria applied consistently | Decline/signpost is routine and trusted; equity of demand actively monitored |
 
 ## Checklist
 

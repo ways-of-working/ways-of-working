@@ -1,10 +1,10 @@
-# Chapter 4.4 — Data, Analytics & Population Health Management
+# Chapter 4.5 — Data, Analytics & Population Health Management
 
 **In health and care, analytics is only worth building if it changes a decision, a pathway, or a life — turning data into insight that reaches the people who most need it, and doing so in ways the public can trust.**
 
 ## Why this matters in health and care
 
-Chapter 4.2 — Interoperability & Data Standards is about moving data safely between systems so it arrives where it is needed. This chapter is about what happens next: turning that data into insight, and insight into action. The two are easy to conflate and expensive to confuse. You can have flawless interoperability and still make poor decisions, and you can have rich analytics that never touch a single patient's care.
+Chapter 4.3 — Interoperability & Data Standards is about moving data safely between systems so it arrives where it is needed. This chapter is about what happens next: turning that data into insight, and insight into action. The two are easy to conflate and expensive to confuse. You can have flawless interoperability and still make poor decisions, and you can have rich analytics that never touch a single patient's care.
 
 Analytics in health and care carries a weight that analytics in retail or logistics does not. When you segment a population and target an intervention, you are deciding whose asthma review happens first, which frail older people get a proactive call before a winter crisis, and where a stretched community team spends its finite hours. Get the analysis wrong — a biased risk model, a data-quality gap that under-counts a deprived neighbourhood, a dashboard that flatters performance — and you can widen the very inequalities you meant to close. The consequences are clinical and ethical, not merely commercial.
 

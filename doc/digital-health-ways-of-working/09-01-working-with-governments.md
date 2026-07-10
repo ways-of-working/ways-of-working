@@ -87,7 +87,7 @@ A national or local public body is the machinery itself — it writes the mandat
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Understanding the system | Rules seen as obstacles | Key bodies identified | Accountability chain mapped per initiative | Fluent navigation; shapes the rules |
 | Business cases | Ad hoc, unstructured | Some Green Book language | Full Five Case Model, capital/revenue clear | Benefits realised and audited against the case |

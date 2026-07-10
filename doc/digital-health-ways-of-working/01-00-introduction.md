@@ -34,7 +34,7 @@ These four pressures — safety, equity, duty, money — are why you cannot simp
 
 5. **Decide with evidence, and record the decision.** Distinguish clinical evidence (does it work and is it safe?) from delivery evidence (are we building it well and being used?), and keep a lightweight decision log so the reasoning survives staff turnover (see Chapter 1.3 — Evidence-Driven Decisions). Evidence beats the highest-paid person's opinion.
 
-6. **Design for interoperability and reuse.** Health and care data must flow safely between organisations; build to open standards ([HL7 FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources), [SNOMED CT](https://en.wikipedia.org/wiki/SNOMED_CT)) and reuse platforms rather than re-inventing them (see Chapter 1.1's "thinnest viable platform" and Chapter 4.2 — Interoperability & Data Standards). A service that cannot share data is a silo waiting to become a risk.
+6. **Design for interoperability and reuse.** Health and care data must flow safely between organisations; build to open standards ([HL7 FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources), [SNOMED CT](https://en.wikipedia.org/wiki/SNOMED_CT)) and reuse platforms rather than re-inventing them (see Chapter 1.1's "thinnest viable platform" and Chapter 4.3 — Interoperability & Data Standards). A service that cannot share data is a silo waiting to become a risk.
 
 7. **Govern proportionately.** Match the weight of assurance to the level of risk. High-risk clinical changes deserve deep scrutiny; low-risk content changes should not wait weeks for a board. Proportionate governance keeps you both safe and fast.
 

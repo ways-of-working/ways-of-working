@@ -42,7 +42,7 @@ Finally, hold the honest critique. QALYs embed value judgements — they can sys
 
 7. **Measure the distribution, not just the mean — and weight for equity where you can.** Break outcomes down by deprivation, age, ethnicity, disability, and digital access, and check whether your service narrowed or widened gaps (see Chapter 1.9 — Digital Inclusion & Accessibility). A service that improves the average by helping the already-advantaged is failing the population-health test. Where your organisation has an equity-weighting or health-inequalities framework, apply it, and at minimum report equity impact alongside the headline ICER.
 
-8. **Use NICE's Evidence Standards Framework to right-size your evidence.** NICE's Evidence Standards Framework for Digital Health Technologies (ESF) tiers evidence expectations by the risk and function of the product, so a simple information tool is not held to the same bar as a treatment-guiding algorithm. Use it early to decide what evidence you genuinely need — and pair it with the Digital Technology Assessment Criteria (DTAC) for the safety, clinical-safety, and interoperability baseline (Chapters 1.6 and 4.2). Right-sizing prevents both under-evidenced hype and paralysing over-evidencing.
+8. **Use NICE's Evidence Standards Framework to right-size your evidence.** NICE's Evidence Standards Framework for Digital Health Technologies (ESF) tiers evidence expectations by the risk and function of the product, so a simple information tool is not held to the same bar as a treatment-guiding algorithm. Use it early to decide what evidence you genuinely need — and pair it with the Digital Technology Assessment Criteria (DTAC) for the safety, clinical-safety, and interoperability baseline (Chapters 1.6 and 4.3). Right-sizing prevents both under-evidenced hype and paralysing over-evidencing.
 
 9. **Prefer routine, linked data and validated instruments over bespoke surveys.** Wherever possible measure outcomes through data the system already collects — attendances, admissions, prescriptions, coded clinical results — linked at population level, so your evidence is comparable, cheap to sustain, and hard to game. Where you need patient report, use validated PROMs and PREMs rather than inventing questions, so your numbers mean the same thing as everyone else's. Handle all of this within your information-governance and data-protection duties (Chapter 1.7).
 
@@ -95,7 +95,7 @@ A national body — NICE, NHS England, DHSC, or a devolved government — sets t
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Outputs vs outcomes | Only outputs counted; treated as benefit | Some outcome metrics, chosen after launch | Primary outcome defined up front, baseline captured | Outcomes routinely linked to spend; outputs used only as leading indicators |
 | Comparability | Every service invents its own metric | A few shared metrics, inconsistently applied | Standard outcome set and logic-model template across portfolio | QALYs/CUA used to compare services; ICERs benchmarked consistently |

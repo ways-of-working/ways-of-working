@@ -90,7 +90,7 @@ A national body shapes the people-and-OD agenda for the whole system: the NHS Pe
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Learning culture | Learning is incidental, unprotected | Some CPD, appraisal-driven | Protected learning time; learning valued | Continuous learning embedded in daily work |
 | Digital literacy | Ad hoc, IT-led tool training | Some role-based training | Whole-workforce, self-assessed (Topol) | Confidence sustained; staff drive their own uplift |

@@ -1,4 +1,4 @@
-# Chapter 4.1 — Identity & Access Management
+# Chapter 4.2 — Identity & Access Management
 
 **In health and care, controlling who can see and do what with a patient's record is not an IT housekeeping task but a front-line determinant of clinical safety, confidentiality, and public trust.**
 
@@ -80,7 +80,7 @@ A large NHS trust or ICS runs dozens of clinical systems of wildly different age
 
 ### Government
 
-A national body such as NHS England operates identity as shared infrastructure for the whole system: the NHS Care Identity Service and CIS2 for staff, NHS login for citizens, and the standards and assurance regimes that let hundreds of organisations trust one another. Its decisions set the direction of travel — the move from smartcards to modern authentication, the adoption of OpenID Connect, the push toward zero trust — and its accountability is to Parliament and the public for both security and equitable access. The tension is between central standardisation and local flexibility: mandate too rigidly and you break local workflows, mandate too loosely and federation collapses into inconsistency. The government lens is therefore about setting interoperable standards (see Chapter 4.2 — Interoperability & Data Standards), providing trustworthy shared services, and assuring compliance without micromanaging every trust.
+A national body such as NHS England operates identity as shared infrastructure for the whole system: the NHS Care Identity Service and CIS2 for staff, NHS login for citizens, and the standards and assurance regimes that let hundreds of organisations trust one another. Its decisions set the direction of travel — the move from smartcards to modern authentication, the adoption of OpenID Connect, the push toward zero trust — and its accountability is to Parliament and the public for both security and equitable access. The tension is between central standardisation and local flexibility: mandate too rigidly and you break local workflows, mandate too loosely and federation collapses into inconsistency. The government lens is therefore about setting interoperable standards (see Chapter 4.3 — Interoperability & Data Standards), providing trustworthy shared services, and assuring compliance without micromanaging every trust.
 
 ## Common failure modes
 

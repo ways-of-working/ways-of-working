@@ -86,7 +86,7 @@ A national or local public body — NHS England, DHSC, UKHSA, a devolved adminis
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Adoption approach | Ad hoc pilots, no exit plan | Some pilots have success criteria | Phased cohorts with go/no-go gates | Portfolio-managed spread and scale, exits designed up front |
 | Evidence | Anecdote and enthusiasm | Post-hoc data collection | Baseline + real-world evaluation planned in | Evidence aligned to NICE ESF and shared with adopters |

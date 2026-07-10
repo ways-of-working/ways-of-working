@@ -1,4 +1,4 @@
-# Chapter 4.2 — Interoperability & Data Standards
+# Chapter 4.3 — Interoperability & Data Standards
 
 **In health and care, interoperability is not a technical nicety but a clinical-safety and equity requirement: when systems cannot share the right data, in the right form, with unambiguous meaning, at the point of care, people are harmed and inequity is amplified.**
 
@@ -86,7 +86,7 @@ National and regional bodies set the rules of the market, so their choices about
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Standards adoption | Ad hoc, mostly proprietary or hand-rolled interfaces | HL7 v2 and some FHIR in use; choices vary by project | FHIR, SNOMED CT and dm+d adopted as default with local guides | Full conformance to national implementation guides and IHE profiles, verified by testing |
 | Identifier & linkage | NHS Number often missing or unverified | Captured but not consistently verified | Verified against national service on most records | Verified everywhere; matching quality actively monitored |

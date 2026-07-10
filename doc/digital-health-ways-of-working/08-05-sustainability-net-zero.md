@@ -90,7 +90,7 @@ A national body such as NHS England or the Department of Health and Social Care 
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Measurement | No carbon data; claims are anecdotal | Partial estimate of energy or IT only | Baseline across Scopes 1–3, reviewed annually | Live carbon data integrated with delivery and finance metrics |
 | Design | Sustainability considered after go-live, if at all | Ad hoc green choices by individual teams | Carbon assessed in business cases and service design | Low-carbon and circular design is the default, with rebound accounted for |

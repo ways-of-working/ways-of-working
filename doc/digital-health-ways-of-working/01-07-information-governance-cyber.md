@@ -36,7 +36,7 @@ On the security side, the [National Cyber Security Centre](https://en.wikipedia.
 
 6. **Complete the DSPT honestly and use it as a real assessment.** The Data Security and Protection Toolkit is a requirement for handling NHS data, but its value comes from treating it as an honest yearly stocktake rather than a box-ticking ritual. Where you cannot meet a standard, record the gap and a credible improvement plan rather than overstating your position. An inflated DSPT return gives your board false assurance, which is worse than none.
 
-7. **Make information sharing a designed capability, not an obstacle.** Across an integrated care system (ICS), good care depends on data crossing organisational boundaries between trusts, GP practices, social care, and community providers. Put clear information sharing agreements (ISAs) and data sharing agreements in place, agree the lawful and confidentiality bases jointly, and design shared records so the right professional sees the right information at the point of care. The goal is safe sharing, not no sharing — withholding data that a clinician needs is itself a patient-safety failure. This connects directly to Chapter 4.2 — Interoperability & Data Standards.
+7. **Make information sharing a designed capability, not an obstacle.** Across an integrated care system (ICS), good care depends on data crossing organisational boundaries between trusts, GP practices, social care, and community providers. Put clear information sharing agreements (ISAs) and data sharing agreements in place, agree the lawful and confidentiality bases jointly, and design shared records so the right professional sees the right information at the point of care. The goal is safe sharing, not no sharing — withholding data that a clinician needs is itself a patient-safety failure. This connects directly to Chapter 4.3 — Interoperability & Data Standards.
 
 8. **Honour patient choice and be transparent about secondary uses.** Respect the national data opt-out in every secondary-use flow, and publish clear, accessible information about how data is used for planning and research. When data is shared with commercial partners or used to train models, disclose it proactively rather than letting it surface through a leak — hidden arrangements have repeatedly triggered public backlash and opt-out surges. Transparency is not a courtesy; it is what keeps the data flowing at all.
 
@@ -91,7 +91,7 @@ National bodies and commissioners set the frameworks — the Caldicott Principle
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Data protection & DPIAs | DPIAs done rarely or after launch | DPIAs done for major projects, inconsistently | DPIA embedded at project start with DPO sign-off | Privacy-by-design routine; lawful bases documented and reviewed |
 | Cyber fundamentals | Ad hoc patching, no MFA, flat network | Patching and MFA in progress; some segmentation | Fundamentals enforced; measured against NCSC CAF | Continuous hardening, threat-informed, regularly tested |

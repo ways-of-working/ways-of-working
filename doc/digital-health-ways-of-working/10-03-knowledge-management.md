@@ -97,7 +97,7 @@ A national or local public body — NHS England, DHSC, UKHSA, or a local authori
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Knowledge capture | In people's heads; nothing written | Some docs written during builds, then abandoned | Docs are a definition-of-done, kept in version control | Capture is continuous; tacit knowledge routinely externalised via pairing and ADRs |
 | Bus factor | Critical systems depend on one person | Risk acknowledged, no plan | Bus-factor-one systems on the risk register with owners and cross-training | No safety-critical system depends on a single individual; resilience is designed in |

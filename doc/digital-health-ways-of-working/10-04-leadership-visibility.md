@@ -85,7 +85,7 @@ A national or local public body — NHS England, DHSC, UKHSA, or a local authori
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Source of truth | Numbers re-typed into decks; versions diverge | Some shared spreadsheets | One authoritative dataset feeds all views | Live single source, self-serve and curated draw from it |
 | Delivery confidence | RAG dots, no rationale | RAG with brief comments | Narrated IPA-style DCA per programme, refreshed on cadence | DCAs independently challenged; trends tracked over time |

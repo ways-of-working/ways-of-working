@@ -2,7 +2,7 @@
 
 **Status:** Authoritative source of truth. This document governs the book. Where a chapter, the README, the style guide, or any generated content disagrees with this spec, **this spec wins** — fix the artifact, or change the spec deliberately and then bring the artifacts into line.
 
-**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 62 files first.
+**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 63 files first.
 
 ---
 
@@ -28,7 +28,7 @@ Chief executives and senior leaders; directors of digital and transformation; pr
 | `README.md` | Reader-facing front door + table of contents. Must list every chapter with correct number, title, and filename. |
 | `STYLE_GUIDE.md` | The prose/formatting contract every chapter author follows. Subordinate to this spec. |
 | `00-preface.md` | Front matter. |
-| `PP-CC-slug.md` | The 63 chapters. Filenames are **sortable zero-padded decimals** — a two-digit part number, a dash, a two-digit within-part number, then the slug (e.g. `01-00-introduction.md`, `03-10-emergency-preparedness-response.md`) — so a plain lexical sort lists chapters in reading order. See manifest, §4. |
+| `PP-CC-slug.md` | The 64 chapters. Filenames are **sortable zero-padded decimals** — a two-digit part number, a dash, a two-digit within-part number, then the slug (e.g. `01-00-introduction.md`, `03-10-emergency-preparedness-response.md`) — so a plain lexical sort lists chapters in reading order. See manifest, §4. |
 | `GLOSSARY.md` | A–Z definitions of key terms, Wikipedia-linked, each pointing to its home chapter. |
 | `INDEX.md` | A–Z concepts/frameworks → chapter numbers (numbers are **chapter numbers, not pages**). |
 | `_sources/` | Raw source material used for grounding (e.g. workforce-strategy text). Not shipped as chapters. |
@@ -50,7 +50,7 @@ Every chapter uses these headings, in this order. This is the contract the matur
 7. `## In practice: a health & care example` — one concrete, realistic, fictional worked scenario (e.g. an ICS rolling out a shared care record).
 8. `## Three sector lenses` — the same topic across three `###` subsections **in this order**: `### Startup`, `### Enterprise`, `### Government`. Each 3–6 sentences, showing how the practice changes with scale, funding model, risk appetite, and accountability.
 9. `## Common failure modes` — anti-patterns and how to avoid them.
-10. `## Maturity model` — a 4-level table with columns **Initial / Developing / Defined / Optimizing** and 3–5 rows of observable characteristics.
+10. `## Maturity model` — a 4-level table with columns **Initial / Developing / Defined / Optimising** and 3–5 rows of observable characteristics.
 11. `## Checklist` — 6–12 actionable `- [ ]` items.
 12. `## Key sources` — bulleted, real and verifiable; cite frameworks by name.
 13. `## References` — a numbered list combining (a) Wikipedia articles for the key concepts named in the chapter and (b) authoritative sources. Format each: *title — publisher/author — URL*.
@@ -59,7 +59,7 @@ Every chapter uses these headings, in this order. This is the contract the matur
 
 ## 4. Chapter manifest
 
-63 chapters in 10 parts, numbered by part and within-part (section.chapter, e.g. `1.0`, `1.1`), plus front and reference matter. Filenames are **sortable zero-padded decimals** of the form `PP-CC-slug.md` (two-digit part, dash, two-digit within-part, dash, slug), so files sort in reading order; the heading and table of contents use the natural form (`Chapter 1.0`, `Chapter 3.10`). Numbers, titles, and filenames are canonical — `README.md` must match exactly.
+64 chapters in 10 parts, numbered by part and within-part (section.chapter, e.g. `1.0`, `1.1`), plus front and reference matter. Filenames are **sortable zero-padded decimals** of the form `PP-CC-slug.md` (two-digit part, dash, two-digit within-part, dash, slug), so files sort in reading order; the heading and table of contents use the natural form (`Chapter 1.0`, `Chapter 3.10`). Numbers, titles, and filenames are canonical — `README.md` must match exactly.
 
 **Part 1 — Foundations**
 1.0. Ways of Working in Digital Health & Care — `01-00-introduction.md`
@@ -94,10 +94,11 @@ Every chapter uses these headings, in this order. This is the contract the matur
 
 **Part 4 — Technology, Architecture & Data**
 4.0. Technical Architecture, Cloud & Legacy — `04-00-technical-architecture-cloud-legacy.md`
-4.1. Identity & Access Management — `04-01-identity-access-management.md`
-4.2. Interoperability & Data Standards — `04-02-interoperability-data-standards.md`
-4.3. Connected Devices, IoT & Clinical Engineering — `04-03-connected-devices-iot.md`
-4.4. Data, Analytics & Population Health Management — `04-04-data-analytics-population-health.md`
+4.1. Platforms & Shared Services — `04-01-platforms-shared-services.md`
+4.2. Identity & Access Management — `04-02-identity-access-management.md`
+4.3. Interoperability & Data Standards — `04-03-interoperability-data-standards.md`
+4.4. Connected Devices, IoT & Clinical Engineering — `04-04-connected-devices-iot.md`
+4.5. Data, Analytics & Population Health Management — `04-05-data-analytics-population-health.md`
 
 **Part 5 — Modes of Delivery**
 5.0. Product-Led Work — `05-00-product-led-work.md`
@@ -189,7 +190,7 @@ A chapter is complete when all are true:
 - [ ] `## Best practices` is numbered with bold lead-ins.
 - [ ] Exactly **three** open discussion questions, each with a 4–8 sentence briefing, placed before the worked example.
 - [ ] Three sector lenses in order: Startup, Enterprise, Government.
-- [ ] Maturity model is a 4-level table (Initial / Developing / Defined / Optimizing).
+- [ ] Maturity model is a 4-level table (Initial / Developing / Defined / Optimising).
 - [ ] Checklist has 6–12 `- [ ]` items.
 - [ ] 5–12 verified Wikipedia links; every inline link also in `## References`.
 - [ ] Every citation is real and checkable; no invented facts, URLs, or numbers.

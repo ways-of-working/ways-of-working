@@ -90,7 +90,7 @@ A national or local public body — NHS England, DHSC, a local authority — col
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Governance | Ad hoc, personality-led | MOU and a board exist | Terms of reference, decision rights, shared roadmap | Self-renewing governance that survives reorganisation |
 | Information sharing | Case-by-case, informal | DPIA done per project | Standing DSA/ISA, named Caldicott Guardians | Federated IG treated as an enabler across the ICS |

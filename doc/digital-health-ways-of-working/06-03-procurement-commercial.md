@@ -8,7 +8,7 @@ Almost nothing large in digital health and care is built entirely in-house. Elec
 
 The stakes are concrete. Public bodies in the United Kingdom spend hundreds of billions of pounds a year through procurement, and health and care is one of the largest components. Every pound is public money, subject to statutory duties of transparency and value, and to scrutiny by auditors, regulators, and — when things go wrong — Parliament and the press. A botched procurement wastes that money twice: on the failed contract and again on the remediation. Worse, a contract that hands a supplier control of clinical data with no exit route can trap an organisation for a decade, unable to switch even when the service degrades.
 
-Procurement is also where equity and safety are quietly decided. Buy a system that cannot exchange data with others (see Chapter 4.2 — Interoperability & Data Standards) and you have bought a silo that fragments care; specify only the cheapest input rather than the safest outcome and you may get exactly what you paid for. Getting the commercial ways of working right is inseparable from getting the clinical and equity outcomes right.
+Procurement is also where equity and safety are quietly decided. Buy a system that cannot exchange data with others (see Chapter 4.3 — Interoperability & Data Standards) and you have bought a silo that fragments care; specify only the cheapest input rather than the safest outcome and you may get exactly what you paid for. Getting the commercial ways of working right is inseparable from getting the clinical and equity outcomes right.
 
 ## Core concepts
 
@@ -34,7 +34,7 @@ Procurement is also where equity and safety are quietly decided. Buy a system th
 
 3. **Specify outcomes, not just inputs, where the work is complex.** For evolving digital services, define the outcomes, service levels, and measures you care about, and let suppliers propose the how, rather than freezing a detailed solution you will regret. This suits agile delivery and lets better ideas surface. It only works if you can genuinely measure the outcomes and resist the temptation to drift back into managing tasks; pair it with clear acceptance criteria (see Chapter 3.5 — Delivery Lifecycles).
 
-4. **Write portability, open standards, and exit into the contract before you sign.** Require that data be held in, or exportable to, open and interoperable formats (see Chapter 4.2 — Interoperability & Data Standards), that interfaces use published standards, and that a costed exit and transition plan exists from day one. The moment of maximum leverage is before signature; afterwards the supplier has every incentive to make leaving hard. Treat open standards as a commercial lever, not merely a technical preference.
+4. **Write portability, open standards, and exit into the contract before you sign.** Require that data be held in, or exportable to, open and interoperable formats (see Chapter 4.3 — Interoperability & Data Standards), that interfaces use published standards, and that a costed exit and transition plan exists from day one. The moment of maximum leverage is before signature; afterwards the supplier has every incentive to make leaving hard. Treat open standards as a commercial lever, not merely a technical preference.
 
 5. **Choose the route to market on fit, not habit.** A framework or dynamic market is faster and lawfully safer than a bespoke competition, but only if its terms fit your need and its call-off rules give real competition rather than a rubber stamp. Check that the route allows the outcome-based, agile contracting you want and does not quietly exclude the SMEs you are trying to reach. Do not default to last time's framework simply because it is familiar.
 
@@ -67,7 +67,7 @@ An integrated care system (ICS) wants to commission a shared care record uniting
 
 The commercial team starts differently. Open pre-market engagement — a published pipeline, a supplier day, a request for information — reveals that several suppliers, including two SMEs, can meet the need if the specification is written around outcomes and open standards rather than a fixed technical design. They decide to buy and configure rather than build, judging the record a commodity while reserving in-house effort for local integration and clinical-safety assurance.
 
-The specification is outcome-based: it defines clinical outcomes, information-governance requirements, interoperability standards (interfaces must use recognised health data standards; see Chapter 4.2 — Interoperability & Data Standards), and service levels, and leaves the how to bidders. Crucially, the contract requires data to remain exportable in open formats, mandates a costed exit and transition plan from day one, weights social value — local digital skills, reduced access inequalities — at a meaningful published percentage, and sizes lots so an SME can bid for the integration work. They procure through a compliant route whose call-off rules permit outcome-based, phased contracting, pricing delivery by capped sprints with break-points and tying payment to working software demonstrated to clinicians, not documents.
+The specification is outcome-based: it defines clinical outcomes, information-governance requirements, interoperability standards (interfaces must use recognised health data standards; see Chapter 4.3 — Interoperability & Data Standards), and service levels, and leaves the how to bidders. Crucially, the contract requires data to remain exportable in open formats, mandates a costed exit and transition plan from day one, weights social value — local digital skills, reduced access inequalities — at a meaningful published percentage, and sizes lots so an SME can bid for the integration work. They procure through a compliant route whose call-off rules permit outcome-based, phased contracting, pricing delivery by capped sprints with break-points and tying payment to working software demonstrated to clinicians, not documents.
 
 After award, the ICS does not disband the team. A named contract owner runs monthly performance reviews and a quarterly supplier relationship review, and the retained intelligent-client function — an architect, a clinical-safety officer, a commercial lead — challenges the supplier as an equal. Two years on, when the supplier proposes a price rise, the ICS credibly threatens to exercise its exit rights, because the data is portable and the standards are open. The rise is negotiated down. Commercial design, not luck, kept the ICS in control.
 
@@ -97,7 +97,7 @@ At national and system level, procurement is an instrument of policy as much as 
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Build vs buy vs configure | Ad hoc, often build or default to incumbent | Some options considered, price-led | Deliberate decision on differentiator vs commodity and whole-life cost | Portfolio-level sourcing strategy, revisited as markets change |
 | Specification | Detailed input specs frozen up front | Mix of input and outcome language | Outcome-based specs with measurable service levels | Outcome contracts enabling agile delivery with phased break-points |
@@ -130,7 +130,7 @@ At national and system level, procurement is an instrument of policy as much as 
 - Technology Code of Practice — Central Digital and Data Office / GOV.UK (open standards, avoiding lock-in). https://www.gov.uk/guidance/the-technology-code-of-practice
 - Open Standards Principles — GOV.UK (open standards in government IT). https://www.gov.uk/government/publications/open-standards-principles
 - National Audit Office — reports and good-practice guidance on commercial and contract management. https://www.nao.org.uk/
-- See also Chapter 4.2 — Interoperability & Data Standards, Chapter 5.4 — Enterprise Resource Planning (ERP), Chapter 6.0 — Financial Management & Business Cases, and Chapter 9.0 — Collaborating with Partner Organisations.
+- See also Chapter 4.3 — Interoperability & Data Standards, Chapter 5.4 — Enterprise Resource Planning (ERP), Chapter 6.0 — Financial Management & Business Cases, and Chapter 9.0 — Collaborating with Partner Organisations.
 
 ## References
 

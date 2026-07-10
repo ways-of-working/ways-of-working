@@ -89,7 +89,7 @@ A national body (NHS England, DHSC) or local authority sets the standards others
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Team shape | Split by technology component; hand-offs everywhere | Some cross-functional teams, still dependency-heavy | Stream-aligned teams own services end to end | Team boundaries deliberately shape architecture (Inverse Conway) |
 | Multidisciplinary staffing | Roles borrowed ad hoc from silos | Core roles present, clinical/IG part-time | Full MDT incl. named CSO with authority | Teams self-assess and fill capability gaps proactively |

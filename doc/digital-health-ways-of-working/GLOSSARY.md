@@ -26,7 +26,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Business continuity** — Keeping critical services running, and recovering them, through disruption. See [Business continuity planning](https://en.wikipedia.org/wiki/Business_continuity_planning). See Chapter 3.9.
 
-**Business intelligence** — Tools and practices that turn data into reporting and insight for decisions. See [Business intelligence](https://en.wikipedia.org/wiki/Business_intelligence). See Chapter 4.4.
+**Business intelligence** — Tools and practices that turn data into reporting and insight for decisions. See [Business intelligence](https://en.wikipedia.org/wiki/Business_intelligence). See Chapter 4.5.
 
 **Balanced scorecard** — A strategic performance framework balancing financial, customer, internal-process, and learning-and-growth measures. See [Balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard). See Chapter 10.0.
 
@@ -44,7 +44,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Care Quality Commission (CQC)** — The independent regulator of health and adult social care in England, whose remit includes digitally-enabled and well-led care. See Chapter 1.5.
 
-**Clinical engineering** — The discipline (also biomedical engineering) that manages medical devices across their lifecycle — inventory, maintenance, safety and decommissioning. See Chapter 4.3.
+**Clinical engineering** — The discipline (also biomedical engineering) that manages medical devices across their lifecycle — inventory, maintenance, safety and decommissioning. See Chapter 4.4.
 
 **Content design** — Designing the words, structure and formats that help people complete a task, in plain language and accessible forms. See Chapter 3.1.
 
@@ -69,6 +69,8 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 **Cynefin** — A sense-making framework distinguishing clear, complicated, complex and chaotic contexts to match the response to the situation. See [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework). See Chapters 1.3, 2.1.
 
 ## D
+
+**Digital public infrastructure** — Shared, reusable digital platforms and services (identity, data exchange, national APIs) that many organisations build on. See Chapter 4.1.
 
 **Design system** — A single source of truth of reusable, accessible interface components, patterns and guidance (e.g. the NHS and GOV.UK design systems). See Chapter 3.2.
 
@@ -116,7 +118,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## F
 
-**FHIR** — Fast Healthcare Interoperability Resources, the HL7 standard for exchanging health data. See [Fast Healthcare Interoperability Resources](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources). See Chapter 4.2.
+**FHIR** — Fast Healthcare Interoperability Resources, the HL7 standard for exchanging health data. See [Fast Healthcare Interoperability Resources](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources). See Chapter 4.3.
 
 **Five Case Model** — The HM Treasury / UK government standard structure for a business case. See Chapters 6.0, 9.1.
 
@@ -148,9 +150,9 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Information asymmetry** — The imbalance where clinicians hold far more information about treatment than patients, one reason the healthcare market cannot be left to itself. See [Information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry). See Chapter 6.1.
 
-**Identity & access management (IAM)** — Controlling who can access what: authentication, authorisation, role-based access control and least privilege. See Chapter 4.1.
+**Identity & access management (IAM)** — Controlling who can access what: authentication, authorisation, role-based access control and least privilege. See Chapter 4.2.
 
-**Internet of Medical Things (IoMT)** — Connected medical devices and sensors that generate and exchange data; a major clinical and security surface. See Chapter 4.3.
+**Internet of Medical Things (IoMT)** — Connected medical devices and sensors that generate and exchange data; a major clinical and security surface. See Chapter 4.4.
 
 **ICER (incremental cost-effectiveness ratio)** — The extra cost per extra unit of health (e.g. per QALY) of one option versus another; compared against a threshold to judge value. See Chapter 6.1.
 
@@ -160,7 +162,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Integrated Care System (ICS)** — A partnership of NHS and local-government organisations planning and delivering joined-up health and care in an area of England. See [Integrated care system](https://en.wikipedia.org/wiki/Integrated_care_system). See Chapters 5.2, 9.0.
 
-**Interoperability** — The ability of systems to exchange and use information, at technical and semantic levels. See [Interoperability](https://en.wikipedia.org/wiki/Interoperability). See Chapter 4.2.
+**Interoperability** — The ability of systems to exchange and use information, at technical and semantic levels. See [Interoperability](https://en.wikipedia.org/wiki/Interoperability). See Chapter 4.3.
 
 **ITIL** — A framework for IT service management, including incident, problem, change and service-request management. See [ITIL](https://en.wikipedia.org/wiki/ITIL). See Chapter 3.8.
 
@@ -228,13 +230,15 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## P
 
+**Platform (as a product)** — A shared capability run as a product with internal users, so teams build on it rather than rebuilding it. See Chapter 4.1.
+
 **Prototyping** — Making low- or high-fidelity versions of a service to test ideas with users before building. See [Software prototyping](https://en.wikipedia.org/wiki/Software_prototyping). See Chapter 3.2.
 
 **PDSA** — Plan-Do-Study-Act: the small-test-of-change cycle at the heart of quality improvement. See Chapter 10.2.
 
 **Personal health record (PHR)** — A record of health information controlled or accessed by the individual. See [Personal health record](https://en.wikipedia.org/wiki/Personal_health_record). See Chapter 3.3.
 
-**Population health management** — Using data to segment and stratify a population and target interventions to those who benefit most. See Chapter 4.4.
+**Population health management** — Using data to segment and stratify a population and target interventions to those who benefit most. See Chapter 4.5.
 
 **Pilotitis** — The anti-pattern of endless small pilots that never scale. See Chapter 8.0.
 
@@ -262,7 +266,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Regulation & compliance** — The terrain of statutory regulators, mandatory standards and voluntary assurance that digital health must satisfy. See Chapter 1.5.
 
-**Role-based access control (RBAC)** — Granting access by job role rather than to individuals, supporting least privilege. See Chapter 4.1.
+**Role-based access control (RBAC)** — Granting access by job role rather than to individuals, supporting least privilege. See Chapter 4.2.
 
 **Real-world evidence** — Evidence on how an intervention performs in routine practice, not only in trials. See Chapter 8.6.
 
@@ -280,9 +284,11 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## S
 
+**Shared services** — Common capabilities provided once and used by many teams or organisations, reducing duplication and cost. See Chapter 4.1.
+
 **Safeguarding** — Protecting children and adults at risk from abuse, neglect and harm, including risks created by digital services. See [Safeguarding](https://en.wikipedia.org/wiki/Safeguarding). See Chapter 1.10.
 
-**Secure Data Environment (SDE)** — A trusted platform where approved analysts work with data without extracting it; also called a Trusted Research Environment. See Chapter 4.4.
+**Secure Data Environment (SDE)** — A trusted platform where approved analysts work with data without extracting it; also called a Trusted Research Environment. See Chapter 4.5.
 
 **Service evaluation** — Assessing how well a service works, distinct from formal research and clinical audit. See Chapter 8.6.
 
@@ -308,7 +314,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Six-step methodology** — A widely used NHS/social-care workforce-planning method (define the plan, the workforce, the future, the gaps, the actions, and monitor). See Chapter 7.2.
 
-**SNOMED CT** — The comprehensive clinical terminology used across the NHS to record care in a coded, computable way. See [SNOMED CT](https://en.wikipedia.org/wiki/SNOMED_CT). See Chapter 4.2.
+**SNOMED CT** — The comprehensive clinical terminology used across the NHS to record care in a coded, computable way. See [SNOMED CT](https://en.wikipedia.org/wiki/SNOMED_CT). See Chapter 4.3.
 
 **Social value** — The wider economic, social and environmental benefit a contract can deliver, which public bodies must weigh in procurement. See Chapters 6.3, 8.5.
 
@@ -342,7 +348,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Value management** — Tracking and banking the benefits and value a change was meant to deliver, distinct from appraising it up front. See Chapter 6.2.
 
-**Vendor lock-in** — Dependence on a supplier that makes switching costly, often through proprietary data or interfaces; open standards and exit planning reduce it. See [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in). See Chapters 4.2, 6.3.
+**Vendor lock-in** — Dependence on a supplier that makes switching costly, often through proprietary data or interfaces; open standards and exit planning reduce it. See [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in). See Chapters 4.3, 6.3.
 
 ## W
 
@@ -363,4 +369,4 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## Z
 
-**Zero trust** — A security model that trusts no request by default and verifies every access continuously. See Chapter 4.1.
+**Zero trust** — A security model that trusts no request by default and verifies every access continuously. See Chapter 4.2.

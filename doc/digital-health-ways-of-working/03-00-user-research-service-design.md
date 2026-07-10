@@ -89,7 +89,7 @@ In UK government and the NHS, user-centred design is not optional: the NHS Servi
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Evidence of need | Decisions based on assumption and opinion | Occasional research, often after build | Research precedes build; assumptions made explicit and tested | Continuous discovery feeds a living evidence base; needs re-checked over time |
 | Scope of design | Individual screens and forms | Journeys mapped for some services | End-to-end journeys and service blueprints, including back-stage | Whole cross-organisation pathways designed and measured together |

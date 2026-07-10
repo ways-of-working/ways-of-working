@@ -103,7 +103,7 @@ A national body plans workforce at the level of the whole system: the NHS Long T
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Horizon | Reactive vacancy-filling only | Some annual planning | Strategic + operational, multi-year | Rolling multi-scenario planning linked to service strategy |
 | Demand basis | Last year's establishment | Activity forecasts | Future service models drive demand | Continuously re-derived from strategy and demographics |

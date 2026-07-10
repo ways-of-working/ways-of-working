@@ -103,7 +103,7 @@ National and local government bodies — the MHRA, NHS England, DHSC, NICE, devo
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimizing |
+| Dimension | Initial | Developing | Defined | Optimising |
 |---|---|---|---|---|
 | Regulatory & assurance | AI bought as ordinary software; no classification | Classification done ad hoc | Device status, DTAC, ESF, DCB routinely applied | Assurance designed in with suppliers; regulator engaged early |
 | Bias & fairness | Only headline accuracy considered | Subgroup data requested inconsistently | Fairness bar required before go-live | Equity monitored in production and acted upon |
