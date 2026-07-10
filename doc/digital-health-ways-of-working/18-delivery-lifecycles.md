@@ -38,7 +38,7 @@ Leaders also need the lifecycle because it makes progress *legible*. Named phase
 
 6. **Treat the service assessment as a design tool, not an exam.** Bring assurance, clinical safety, security, and accessibility reviewers in *early* and often, so the formal assessment confirms a service already built to standard. Teams that first meet the standard the week before assessment fail slowly and expensively; teams that internalise it pass as a by-product.
 
-7. **Keep iterating in Live — and resource it.** A service does not stop needing a team when it goes live. Live is where real usage exposes the last inequities, the rare-but-serious clinical edge cases, and the accessibility gaps. Fund a standing product team for the service's operational life (see Chapter 28 — Product-Led Work); a live service with no team is technical debt accruing clinical risk.
+7. **Keep iterating in Live — and resource it.** A service does not stop needing a team when it goes live. Live is where real usage exposes the last inequities, the rare-but-serious clinical edge cases, and the accessibility gaps. Fund a standing product team for the service's operational life (see Chapter 29 — Product-Led Work); a live service with no team is technical debt accruing clinical risk.
 
 8. **Plan decommissioning before you need it.** Decide, while building, how the service will eventually be retired: data retention and migration under records-management law, user redirection, clinician notification, and archival of the clinical safety case and audit trail. An unplanned retirement strands data and users; a planned one is a controlled, auditable phase.
 
@@ -104,7 +104,7 @@ A national body delivers under the full Service Standard, published service asse
 - [ ] Service assessments are planned, and assurance/security/accessibility reviewers are engaged early.
 - [ ] A CI/CD pipeline with monitoring and fast rollback is in place before public beta.
 - [ ] The service is exposed to users in a phased ramp (private beta → public beta → live), not big-bang.
-- [ ] A standing product team is funded for the service's operational life (see Chapter 28).
+- [ ] A standing product team is funded for the service's operational life (see Chapter 29).
 - [ ] A decommissioning plan covers data retention/migration, user redirection, and archival of safety and audit records.
 
 ## Key sources

@@ -36,7 +36,7 @@ Designing top-down (strategy → value streams → capabilities) keeps teams and
 
 2. **Adopt a platform-plus-federation shape.** Provide shared capabilities centrally as a self-service platform, and let stream-aligned teams in trusts and places build on top. This gives you national consistency on safety and interoperability with local speed and ownership — the reconciliation the domain demands.
 
-3. **Fund products, not projects.** Move money from time-boxed projects to persistently funded product teams aligned to value streams. Project funding forces teams to disband at exactly the point they have learned the domain; product funding sustains the safety knowledge and iteration that health services need (see Chapter 28 — Product-Led Work).
+3. **Fund products, not projects.** Move money from time-boxed projects to persistently funded product teams aligned to value streams. Project funding forces teams to disband at exactly the point they have learned the domain; product funding sustains the safety knowledge and iteration that health services need (see Chapter 29 — Product-Led Work).
 
 4. **Make spend control proportionate and staged.** Use staged funding tied to evidence — release money at discovery, alpha, beta, and live gates rather than approving a whole programme up front. [GDS](https://en.wikipedia.org/wiki/Government_Digital_Service)-style spend controls and the NHS assurance route exist to prevent large sunk costs on unproven ideas; apply them as thresholds scaled to risk and value, not blanket bureaucracy.
 
@@ -45,6 +45,10 @@ Designing top-down (strategy → value streams → capabilities) keeps teams and
 6. **Keep the platform thin and demand-led.** Build shared capabilities only when two or more teams demonstrably need the same thing, and treat the platform as a product with its own users (the internal teams). Resist the urge to pre-build a grand platform; the thinnest viable platform earns its scope through adoption.
 
 7. **Manage suppliers as part of the model, not outside it.** Decide deliberately which capabilities are strategic (build/own) and which are commodity (buy), avoid single-supplier [lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in) on core clinical data, and require open standards and exit rights in contracts. Your suppliers are a layer of your operating model, and their ways of working must be compatible with yours.
+
+8. **Make decision rights explicit.** An operating model only works if people know who decides what — which choices sit with a product team, which with a clinical-safety authority, and which must reach a board. Map decision rights and push each decision to the lowest level that can safely hold it, so delivery is not throttled by needless escalation. Ambiguous authority is one of the most common causes of slow, defensive delivery.
+
+9. **Treat the operating model as a product you evolve.** A target operating model is not set once and framed on a wall; inspect it as demand, technology and partnerships change, and adapt it on evidence. Watch a few signals — flow of work, time-to-decision, rework, and team health — and change structures when they are demonstrably getting in the way, not in response to reorganisation fashion.
 
 ## Questions to discuss with your team
 

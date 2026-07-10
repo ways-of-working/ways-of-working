@@ -41,54 +41,56 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 - [Chapter 20 — Testing & Quality Assurance](20-testing-quality-assurance.md)
 - [Chapter 21 — Service Management & Live Operations](21-service-management-operations.md)
 - [Chapter 22 — Business Continuity & Disaster Recovery](22-business-continuity-disaster-recovery.md)
+- [Chapter 23 — Emergency Preparedness, Resilience & Response](23-emergency-preparedness-response.md)
 
 ### Part IV — Technology, Architecture & Data
-- [Chapter 23 — Technical Architecture, Cloud & Legacy](23-technical-architecture-cloud-legacy.md)
-- [Chapter 24 — Identity & Access Management](24-identity-access-management.md)
-- [Chapter 25 — Interoperability & Data Standards](25-interoperability-data-standards.md)
-- [Chapter 26 — Connected Devices, IoT & Clinical Engineering](26-connected-devices-iot.md)
-- [Chapter 27 — Data, Analytics & Population Health Management](27-data-analytics-population-health.md)
+- [Chapter 24 — Technical Architecture, Cloud & Legacy](24-technical-architecture-cloud-legacy.md)
+- [Chapter 25 — Identity & Access Management](25-identity-access-management.md)
+- [Chapter 26 — Interoperability & Data Standards](26-interoperability-data-standards.md)
+- [Chapter 27 — Connected Devices, IoT & Clinical Engineering](27-connected-devices-iot.md)
+- [Chapter 28 — Data, Analytics & Population Health Management](28-data-analytics-population-health.md)
 
 ### Part V — Modes of Delivery
-- [Chapter 28 — Product-Led Work](28-product-led-work.md)
-- [Chapter 29 — Project-Led Work](29-project-led-work.md)
-- [Chapter 30 — Programme-Led Work](30-programme-led-work.md)
-- [Chapter 31 — Enterprise Project Portfolio Management (EPPM)](31-eppm.md)
-- [Chapter 32 — Enterprise Resource Planning (ERP)](32-erp.md)
+- [Chapter 29 — Product-Led Work](29-product-led-work.md)
+- [Chapter 30 — Project-Led Work](30-project-led-work.md)
+- [Chapter 31 — Programme-Led Work](31-programme-led-work.md)
+- [Chapter 32 — Enterprise Project Portfolio Management (EPPM)](32-eppm.md)
+- [Chapter 33 — Enterprise Resource Planning (ERP)](33-erp.md)
 
 ### Part VI — Money, Value & Governance
-- [Chapter 33 — Financial Management & Business Cases](33-financial-management-business-cases.md)
-- [Chapter 34 — Health Economics](34-health-economics.md)
-- [Chapter 35 — Benefits Realisation & Value Management](35-benefits-realisation-value.md)
-- [Chapter 36 — Procurement & Commercial](36-procurement-commercial.md)
-- [Chapter 37 — Governance & Assurance](37-governance-assurance.md)
+- [Chapter 34 — Financial Management & Business Cases](34-financial-management-business-cases.md)
+- [Chapter 35 — Health Economics](35-health-economics.md)
+- [Chapter 36 — Benefits Realisation & Value Management](36-benefits-realisation-value.md)
+- [Chapter 37 — Procurement & Commercial](37-procurement-commercial.md)
+- [Chapter 38 — Governance & Assurance](38-governance-assurance.md)
 
 ### Part VII — People, Teams & Workforce
-- [Chapter 38 — Team Structures, Roles & Responsibilities](38-team-structures-roles.md)
-- [Chapter 39 — Workforce Planning](39-workforce-planning.md)
-- [Chapter 40 — Workforce Strategy](40-workforce-strategy.md)
-- [Chapter 41 — Digital Skills & Capability Building](41-digital-skills-capability.md)
-- [Chapter 42 — People & Organisational Development](42-people-org-development.md)
-- [Chapter 43 — Workforce Equality, Diversity & Inclusion](43-workforce-edi.md)
+- [Chapter 39 — Team Structures, Roles & Responsibilities](39-team-structures-roles.md)
+- [Chapter 40 — Workforce Planning](40-workforce-planning.md)
+- [Chapter 41 — Workforce Strategy](41-workforce-strategy.md)
+- [Chapter 42 — Digital Skills & Capability Building](42-digital-skills-capability.md)
+- [Chapter 43 — People & Organisational Development](43-people-org-development.md)
+- [Chapter 44 — Workforce Equality, Diversity & Inclusion](44-workforce-edi.md)
 
 ### Part VIII — Change & Innovation
-- [Chapter 44 — Phasing in Innovation](44-phasing-innovation.md)
-- [Chapter 45 — Change Management](45-change-management.md)
-- [Chapter 46 — Communications & Engagement](46-communications-engagement.md)
-- [Chapter 47 — AI & Emerging Technology Governance](47-ai-emerging-technology.md)
-- [Chapter 48 — Sustainability & Net Zero](48-sustainability-net-zero.md)
-- [Chapter 49 — Research & Real-World Evaluation](49-research-real-world-evaluation.md)
+- [Chapter 45 — Phasing in Innovation](45-phasing-innovation.md)
+- [Chapter 46 — Change Management](46-change-management.md)
+- [Chapter 47 — Communications & Engagement](47-communications-engagement.md)
+- [Chapter 48 — AI & Emerging Technology Governance](48-ai-emerging-technology.md)
+- [Chapter 49 — Sustainability & Net Zero](49-sustainability-net-zero.md)
+- [Chapter 50 — Research & Real-World Evaluation](50-research-real-world-evaluation.md)
 
 ### Part IX — Partnerships & Government
-- [Chapter 50 — Collaborating with Partner Organisations](50-collaborating-partner-organizations.md)
-- [Chapter 51 — Working with Local & National Governments](51-working-with-governments.md)
-- [Chapter 52 — Global & International Digital Health](52-global-international-digital-health.md)
+- [Chapter 51 — Collaborating with Partner Organisations](51-collaborating-partner-organizations.md)
+- [Chapter 52 — Working with Local & National Governments](52-working-with-governments.md)
+- [Chapter 53 — Global & International Digital Health](53-global-international-digital-health.md)
 
 ### Part X — Measurement, Improvement, Knowledge & Leadership
-- [Chapter 53 — OKRs & KPIs](53-okrs-kpis.md)
-- [Chapter 54 — Quality Improvement & Improvement Science](54-quality-improvement.md)
-- [Chapter 55 — Knowledge Management & Documentation](55-knowledge-management.md)
-- [Chapter 56 — Visibility for the CEO & Senior Leaders](56-leadership-visibility.md)
+- [Chapter 54 — Objectives & Key Results (OKRs)](54-okrs.md)
+- [Chapter 55 — Key Performance Indicators (KPIs)](55-kpis.md)
+- [Chapter 56 — Quality Improvement & Improvement Science](56-quality-improvement.md)
+- [Chapter 57 — Knowledge Management & Documentation](57-knowledge-management.md)
+- [Chapter 58 — Visibility for the CEO & Senior Leaders](58-leadership-visibility.md)
 
 ### Front matter
 - [Preface](00-preface.md)
@@ -107,4 +109,4 @@ Each chapter follows the same structure so you can navigate and self-assess cons
 
 ---
 
-*This handbook cites public, verifiable sources throughout: the NHS Digital Service Manual and Service Standard, the GOV.UK Service Manual, NICE's Evidence Standards Framework for Digital Health Technologies, the MHRA, CQC and DTAC, the clinical risk-management standards DCB0129/0160, the Caldicott Principles and UK data-protection law, HM Treasury's Green Book and Five Case Model, Team Topologies, MSP / PRINCE2 / MoP, Kotter and Prosci ADKAR, the Model for Improvement, the WHO global strategy on digital health, and the health-and-care workforce strategy evidence base (including HEIW and Social Care Wales, *A Healthier Wales: Our Workforce Strategy for Health and Social Care*).*
+*This handbook cites public, verifiable sources throughout: the NHS Digital Service Manual and Service Standard, the GOV.UK Service Manual, NICE's Evidence Standards Framework for Digital Health Technologies, the MHRA, CQC and DTAC, the clinical risk-management standards DCB0129/0160, the Caldicott Principles and UK data-protection law, HM Treasury's Green Book and Five Case Model, Team Topologies, MSP / PRINCE2 / MoP, Kotter and Prosci ADKAR, OKRs (Doerr), the Model for Improvement, the WHO global strategy on digital health, and the health-and-care workforce strategy evidence base (including HEIW and Social Care Wales, *A Healthier Wales: Our Workforce Strategy for Health and Social Care*).*

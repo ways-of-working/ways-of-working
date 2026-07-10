@@ -43,6 +43,10 @@ Each type deserves a different downstream path, but all should arrive through th
 
 8. **Name an intake owner and cadence.** Someone must own the front door: ensuring items are complete, correctly classified, de-duplicated, and passed to triage on a predictable rhythm (see Chapter 12). Intake without an owner silts up within weeks.
 
+9. **Make intake routes accessible and equitable.** The people with the most acute needs — frontline staff, social-care providers, and seldom-heard communities — are often the least able to submit a polished request. Offer more than one way in, keep the language plain, and help requesters articulate the underlying problem rather than pre-specifying a solution. An intake process that only the well-resourced can navigate quietly skews the whole portfolio.
+
+10. **Close the loop with requesters.** Tell people what happened to their request — accepted, merged, parked, or declined — and why, on a predictable timescale. Silent intake destroys trust and drives shadow demand and workarounds, whereas honest, timely feedback (even a "no") keeps the front door credible and reduces chasing.
+
 ## Questions to discuss with your team
 
 1. **How would we actually know how much shadow intake is bypassing our front door right now?**

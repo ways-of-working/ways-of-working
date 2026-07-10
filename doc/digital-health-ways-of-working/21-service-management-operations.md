@@ -128,7 +128,7 @@ A national body operates services that may touch millions, so an outage is a nat
 - NHS England / NCSC — cyber-security operations, the Data Security and Protection Toolkit (DSPT), and lessons from the 2017 WannaCry incident (see Chapter 7).
 - ISO/IEC 20000 (IT service management) and ISO 22301 (business continuity management systems).
 - DevOps Research and Assessment (DORA) — capabilities linking delivery and operational performance (monitoring, change, reliability).
-- OKRs and KPIs for operational and reliability reporting to leadership (see Chapter 53 — OKRs & KPIs).
+- OKRs and KPIs for operational and reliability reporting to leadership (see Chapter 54 — Objectives & Key Results (OKRs)).
 
 ## References
 

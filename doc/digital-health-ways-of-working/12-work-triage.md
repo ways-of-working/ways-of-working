@@ -38,6 +38,10 @@ The analogy is more than rhetorical. Health and care organisations already trust
 
 8. **Watch for [equity](https://en.wikipedia.org/wiki/Health_equity) and demand bias.** Well-resourced services submit polished requests; frontline and social-care voices may not. Triage should actively check that criteria are applied evenly and that quieter but high-need demand is not systematically down-ranked. Fairness of process is a governance requirement, not a nicety.
 
+9. **Separate triage from delivery decisions.** Triage decides urgency and routing; it should not quietly become the place where scope, solution and funding are settled without the right people. Keep triage fast and criteria-based, and pass genuinely complex or contested items to a proper prioritisation forum (see Chapter 13 — Work Prioritisation) rather than resolving them in the corridor. Confusing the two overloads triage and hides real trade-offs.
+
+10. **Review triage decisions and calibrate.** Periodically re-examine a sample of past triage calls: did the "urgent" items turn out to matter, and did anything you down-ranked later blow up? Feed the pattern back into the criteria and into how triagers are trained, so the system learns rather than repeating the same misjudgements. Calibration across triagers keeps decisions consistent regardless of who is on rota.
+
 ## Questions to discuss with your team
 
 1. **What evidence will we require before we accept that something is genuinely urgent — and who gets to challenge an urgency claim?**

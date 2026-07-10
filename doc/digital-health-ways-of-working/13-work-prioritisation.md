@@ -6,7 +6,7 @@
 
 Prioritisation is where strategy becomes real. An organisation's true strategy is not its published plan but the order in which it actually does things — and in health and care that order carries safety, equity, and public-money consequences. Deprioritise the interoperability work and a shared care record stalls; deprioritise technical debt and a system fails at 2 a.m. on a bank holiday; deprioritise the accessibility fix and you exclude the people who need the service most.
 
-The pressure is structural: demand always exceeds capacity, and much of that demand is legitimate. Leaders therefore need methods that make trade-offs explicit and defensible, not a process where the last email wins or every project is "top priority." Transparent prioritisation also changes the political weather: when stakeholders can see the criteria and the ordering, negotiation shifts from lobbying to a shared conversation about value and cost of delay. This chapter follows intake (Chapter 11) and triage (Chapter 12); it assumes you already have a visible, assessed backlog to order, and it feeds the delivery lifecycle (Chapters 17–8) and portfolio management (Chapter 31 — EPPM).
+The pressure is structural: demand always exceeds capacity, and much of that demand is legitimate. Leaders therefore need methods that make trade-offs explicit and defensible, not a process where the last email wins or every project is "top priority." Transparent prioritisation also changes the political weather: when stakeholders can see the criteria and the ordering, negotiation shifts from lobbying to a shared conversation about value and cost of delay. This chapter follows intake (Chapter 11) and triage (Chapter 12); it assumes you already have a visible, assessed backlog to order, and it feeds the delivery lifecycle (Chapters 17–8) and portfolio management (Chapter 32 — EPPM).
 
 ## Core concepts
 
@@ -36,7 +36,7 @@ No framework is "correct"; each encodes a different definition of value, and the
 
 3. **Reserve explicit capacity for run, tech debt, and safety.** Do not let keep-the-lights-on work, technical debt, and security/safety remediation compete feature-by-feature with new capability — they will lose until something breaks. Ring-fence a standing percentage of capacity (a common rule of thumb is a meaningful, protected slice) for this work, and treat it as non-negotiable.
 
-4. **Prioritise on outcomes and value, not on requester rank.** Score against the organisation's stated outcomes and priorities (ideally its [OKRs](https://en.wikipedia.org/wiki/Objectives_and_key_results) — see Chapter 53) rather than who asked. When a senior stakeholder's item scores low, that is the system working; the framework gives you a fair, non-personal basis to have that conversation.
+4. **Prioritise on outcomes and value, not on requester rank.** Score against the organisation's stated outcomes and priorities (ideally its [OKRs](https://en.wikipedia.org/wiki/Objectives_and_key_results) — see Chapter 54) rather than who asked. When a senior stakeholder's item scores low, that is the system working; the framework gives you a fair, non-personal basis to have that conversation.
 
 5. **Match the method to the constraint: capacity or date.** For a sustainable flow of change, order by value and pull work to a known capacity. For an immovable date, work backwards and use MoSCoW to protect the "Musts" and flex the "Coulds." Confusing the two — trying to fit fixed scope into fixed time and fixed capacity — is the classic route to a failed programme.
 

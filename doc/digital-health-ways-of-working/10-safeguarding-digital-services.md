@@ -66,7 +66,7 @@ A small digital-health company building, say, a teen mental-health app carries s
 
 ### Enterprise
 
-An NHS trust or ICS runs many systems, many proxies and millions of records, so the challenge is consistency and speed at scale. The risk is fragmentation — each system with its own, slow, inconsistent way to hide data — which leaves gaps an abuser can exploit and workers who cannot act fast enough. Invest in centralised, reusable safeguarding controls (sensitive flags, notification suppression, proxy governance) that apply across the estate, backed by named safeguarding leads, MASH integration, and proactive access audits. Governance and assurance boards (see Chapter 37 — Governance & Assurance) should treat safeguarding-by-design as a standing gate, not a one-off.
+An NHS trust or ICS runs many systems, many proxies and millions of records, so the challenge is consistency and speed at scale. The risk is fragmentation — each system with its own, slow, inconsistent way to hide data — which leaves gaps an abuser can exploit and workers who cannot act fast enough. Invest in centralised, reusable safeguarding controls (sensitive flags, notification suppression, proxy governance) that apply across the estate, backed by named safeguarding leads, MASH integration, and proactive access audits. Governance and assurance boards (see Chapter 38 — Governance & Assurance) should treat safeguarding-by-design as a standing gate, not a one-off.
 
 ### Government
 

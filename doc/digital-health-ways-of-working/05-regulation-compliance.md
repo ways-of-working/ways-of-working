@@ -8,7 +8,7 @@ In most sectors, regulation sets a floor: obey it and you avoid penalties. In he
 
 The landscape is also genuinely crowded, and that is the difficulty. A single patient-facing app might simultaneously be a medical device regulated by one body, process personal data under the remit of another, be commissioned only if it clears a national assessment, sit inside a service inspected by a care regulator, and be built by clinicians accountable to their own professional regulators. No one wrote this map as a coherent whole; it accreted. Your job as a leader is not to memorise every rule but to hold the *shape* of the terrain — who covers what, which instruments are mandatory versus advisory, and where your specific service sits within it.
 
-Finally, this is public money and statutory duty. When you deploy a non-compliant system you are not just exposing your organisation to enforcement; you may be breaching duties owed to patients and citizens, and spending public funds on something you cannot lawfully run. That is why this chapter frames the more detailed chapters that follow on clinical safety (Chapter 6 — Clinical Safety & Risk Management), information governance (Chapter 7 — Information Governance, Data Protection & Cyber Security), data ethics (Chapter 8 — Data Ethics, Consent & Public Trust), and assurance (Chapter 37 — Governance & Assurance). This chapter is the navigator; those are the detailed charts.
+Finally, this is public money and statutory duty. When you deploy a non-compliant system you are not just exposing your organisation to enforcement; you may be breaching duties owed to patients and citizens, and spending public funds on something you cannot lawfully run. That is why this chapter frames the more detailed chapters that follow on clinical safety (Chapter 6 — Clinical Safety & Risk Management), information governance (Chapter 7 — Information Governance, Data Protection & Cyber Security), data ethics (Chapter 8 — Data Ethics, Consent & Public Trust), and assurance (Chapter 38 — Governance & Assurance). This chapter is the navigator; those are the detailed charts.
 
 ## Core concepts
 
@@ -48,7 +48,7 @@ Finally, this is public money and statutory duty. When you deploy a non-complian
 
 7. **Keep evidence continuously, and make it audit-ready.** Regulators, commissioners, and the CQC's "well-led" reviewers ask you to *show*, not assert. Keep hazard logs, Data Protection Impact Assessments, DSPT submissions, and DTAC evidence current and retrievable rather than reconstructing them under inspection pressure. Continuous evidence is also cheaper than the periodic scramble it replaces.
 
-8. **Coordinate across regulators rather than in silos.** Because one service touches many bodies, its compliance functions must talk to each other: the clinical-safety, information-governance, and product owners should share one view of the service, not maintain three disconnected ones. A change that satisfies the MHRA can create a data-protection issue; a UX fix can alter the clinical risk profile. Run compliance as one coordinated picture, tied into your wider governance (Chapter 37 — Governance & Assurance).
+8. **Coordinate across regulators rather than in silos.** Because one service touches many bodies, its compliance functions must talk to each other: the clinical-safety, information-governance, and product owners should share one view of the service, not maintain three disconnected ones. A change that satisfies the MHRA can create a data-protection issue; a UX fix can alter the clinical risk profile. Run compliance as one coordinated picture, tied into your wider governance (Chapter 38 — Governance & Assurance).
 
 ## Questions to discuss with your team
 
@@ -79,7 +79,7 @@ A small digital-health company feels the medical-device and DTAC regimes most sh
 
 ### Enterprise
 
-An NHS trust or large ICS holds many services at once, so its challenge is portfolio-scale coordination: dozens of systems, each touching several regulators, with obligations that must not fall between teams. The failure mode is organisational silos — clinical safety, information governance, and procurement each holding a partial view, so no one sees the whole compliance position of a given service. The corrective is a shared compliance map per service, single-name accountability tied into board-level governance (Chapter 37), and continuous audit-ready evidence so a CQC "well-led" review or an ICO enquiry is answered from a live position. A large health-tech or pharma enterprise brings mature regulatory-affairs machinery but must guard against treating it as a compliance factory disconnected from how products are actually built.
+An NHS trust or large ICS holds many services at once, so its challenge is portfolio-scale coordination: dozens of systems, each touching several regulators, with obligations that must not fall between teams. The failure mode is organisational silos — clinical safety, information governance, and procurement each holding a partial view, so no one sees the whole compliance position of a given service. The corrective is a shared compliance map per service, single-name accountability tied into board-level governance (Chapter 38), and continuous audit-ready evidence so a CQC "well-led" review or an ICO enquiry is answered from a live position. A large health-tech or pharma enterprise brings mature regulatory-affairs machinery but must guard against treating it as a compliance factory disconnected from how products are actually built.
 
 ### Government
 
@@ -115,7 +115,7 @@ A national body — NHS England, the Department of Health and Social Care, the M
 - [ ] Evidence (hazard logs, DPIAs, DSPT, DTAC) is current, retrievable, and audit-ready.
 - [ ] A named owner runs regulatory horizon-scanning against a maintained watchlist.
 - [ ] Conformity-marking requirements (UKCA/CE) for the relevant market are confirmed, not assumed.
-- [ ] Compliance functions share one coordinated view of each service, tied into governance (Chapter 37).
+- [ ] Compliance functions share one coordinated view of each service, tied into governance (Chapter 38).
 - [ ] The register is reviewed on a schedule, not written once and abandoned.
 
 ## Key sources

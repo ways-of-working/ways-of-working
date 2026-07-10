@@ -42,7 +42,7 @@ Finally, [co-production](https://en.wikipedia.org/wiki/Co-production_(approach))
 
 8. **Design inclusively and test with assistive technology.** Inclusive research and accessible design are the same discipline seen from two ends. Test your prototypes with screen readers, magnification, keyboard-only navigation, and plain-language content, and include disabled people in your participant pool as standard rather than as a special study. Meeting the Web Content Accessibility Guidelines (WCAG) is a floor, not a ceiling; observing a real screen-reader user complete a task teaches you things a checklist never will (Chapter 9 — Digital Inclusion & Accessibility).
 
-9. **Close the loop from insight to decision to product.** Research only creates value when it changes what gets built. Connect insights to the backlog so that prioritisation reflects evidence of need (Chapter 28 — Product-Led Work), and feed research back to participants and staff so they see that their contribution mattered. Keep a visible record of "what we learned and what we changed," which protects the work when priorities are challenged and builds the organisation's memory.
+9. **Close the loop from insight to decision to product.** Research only creates value when it changes what gets built. Connect insights to the backlog so that prioritisation reflects evidence of need (Chapter 29 — Product-Led Work), and feed research back to participants and staff so they see that their contribution mattered. Keep a visible record of "what we learned and what we changed," which protects the work when priorities are challenged and builds the organisation's memory.
 
 ## Questions to discuss with your team
 

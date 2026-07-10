@@ -20,7 +20,7 @@ These four pressures — safety, equity, duty, money — are why you cannot simp
 
 **[Multidisciplinary teams (MDTs)](https://en.wikipedia.org/wiki/Interdisciplinarity)** bring together, in one empowered team, the mix of skills a service needs: product and delivery management, user research and design, engineering, clinical and information-governance expertise, and operational knowledge. The NHS service standard requires teams that include multidisciplinary skills and perspectives — including access to specialist clinical, legal, or policy input. The MDT is the atom of digital delivery; most failures trace back to a missing discipline at the table.
 
-**Product over project.** A project has a start, an end, and a hand-off; a [product](https://en.wikipedia.org/wiki/Product_management) is funded and stewarded for its whole life. The shift from project to product thinking (see Chapter 2 and Chapter 28 — Product-Led Work) changes funding, teams, and accountability, and it fits health services — which are long-lived and continuously evolving — far better than one-off projects do.
+**Product over project.** A project has a start, an end, and a hand-off; a [product](https://en.wikipedia.org/wiki/Product_management) is funded and stewarded for its whole life. The shift from project to product thinking (see Chapter 2 and Chapter 29 — Product-Led Work) changes funding, teams, and accountability, and it fits health services — which are long-lived and continuously evolving — far better than one-off projects do.
 
 ## Best practices
 
@@ -34,9 +34,13 @@ These four pressures — safety, equity, duty, money — are why you cannot simp
 
 5. **Decide with evidence, and record the decision.** Distinguish clinical evidence (does it work and is it safe?) from delivery evidence (are we building it well and being used?), and keep a lightweight decision log so the reasoning survives staff turnover (see Chapter 4 — Evidence-Driven Decisions). Evidence beats the highest-paid person's opinion.
 
-6. **Design for interoperability and reuse.** Health and care data must flow safely between organisations; build to open standards ([HL7 FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources), [SNOMED CT](https://en.wikipedia.org/wiki/SNOMED_CT)) and reuse platforms rather than re-inventing them (see Chapter 2's "thinnest viable platform" and Chapter 25 — Interoperability & Data Standards). A service that cannot share data is a silo waiting to become a risk.
+6. **Design for interoperability and reuse.** Health and care data must flow safely between organisations; build to open standards ([HL7 FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources), [SNOMED CT](https://en.wikipedia.org/wiki/SNOMED_CT)) and reuse platforms rather than re-inventing them (see Chapter 2's "thinnest viable platform" and Chapter 26 — Interoperability & Data Standards). A service that cannot share data is a silo waiting to become a risk.
 
 7. **Govern proportionately.** Match the weight of assurance to the level of risk. High-risk clinical changes deserve deep scrutiny; low-risk content changes should not wait weeks for a board. Proportionate governance keeps you both safe and fast.
+
+8. **Work in the open.** Share plans, decisions, roadmaps and — where safe — code, so partners, clinicians and the public can see how and why choices are made. Openness builds trust, cuts duplication across a fragmented system, and invites challenge before mistakes harden into live services. In health and care, being transparent about what a service does with data, and why, is itself a trust and safety practice.
+
+9. **Design for the long term and for handover.** Digital services in health outlive the teams and contracts that build them, so capture decisions, avoid undocumented "hero" knowledge, and design for the people who will run and change the service for years (see Chapter 57 — Knowledge Management & Documentation). Treat sustainability — of the team, the technology and the funding model — as a first-class constraint, not an afterthought.
 
 ## Questions to discuss with your team
 
@@ -78,7 +82,7 @@ A national or local public body — NHS England, DHSC, UKHSA, a local authority 
 - **Solution-first delivery.** Committing to a named product before understanding the need. Antidote: fund discovery and make user needs the entry criterion for build.
 - **Governance as a late gate.** Clinical safety and information governance consulted only at go-live, forcing rework or unsafe shortcuts. Antidote: embed both in the team from day one.
 - **Project churn.** Standing teams up and tearing them down, losing hard-won domain and safety knowledge. Antidote: product funding and persistent teams.
-- **Pilot purgatory.** Endless pilots that never scale because adoption, training, and business change were never resourced (see Chapter 45 — Change Management). Antidote: plan the path to scale before the pilot.
+- **Pilot purgatory.** Endless pilots that never scale because adoption, training, and business change were never resourced (see Chapter 46 — Change Management). Antidote: plan the path to scale before the pilot.
 - **Equity as an afterthought.** Designing for the confident majority and excluding the people who need care most. Antidote: design for the hardest cases first.
 
 ## Maturity model
