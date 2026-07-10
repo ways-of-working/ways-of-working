@@ -36,7 +36,7 @@ Designing top-down (strategy → value streams → capabilities) keeps teams and
 
 2. **Adopt a platform-plus-federation shape.** Provide shared capabilities centrally as a self-service platform, and let stream-aligned teams in trusts and places build on top. This gives you national consistency on safety and interoperability with local speed and ownership — the reconciliation the domain demands.
 
-3. **Fund products, not projects.** Move money from time-boxed projects to persistently funded product teams aligned to value streams. Project funding forces teams to disband at exactly the point they have learned the domain; product funding sustains the safety knowledge and iteration that health services need (see Chapter 23 — Product-Led Work).
+3. **Fund products, not projects.** Move money from time-boxed projects to persistently funded product teams aligned to value streams. Project funding forces teams to disband at exactly the point they have learned the domain; product funding sustains the safety knowledge and iteration that health services need (see Chapter 28 — Product-Led Work).
 
 4. **Make spend control proportionate and staged.** Use staged funding tied to evidence — release money at discovery, alpha, beta, and live gates rather than approving a whole programme up front. [GDS](https://en.wikipedia.org/wiki/Government_Digital_Service)-style spend controls and the NHS assurance route exist to prevent large sunk costs on unproven ideas; apply them as thresholds scaled to risk and value, not blanket bureaucracy.
 

@@ -4,219 +4,245 @@ An alphabetical index of concepts, frameworks and terms, with the chapters where
 
 
 ## A
+- **Authentication & authorisation** — 24
 
-- **Accessibility (WCAG)** — 1, 8, 13, 15, 17
-- **Agile** — 1, 2, 12, 15, 16, 32
-- **AI / artificial intelligence** — 37, 40
-- **Algorithmic bias** — 8, 40
-- **Alpha, Beta, Live phases** — 1, 2, 15, 16, 37, 44
-- **Analytics / business intelligence** — 22, 45
-- **Architecture (enterprise & solution)** — 2, 3, 20
-- **Architecture decision records (ADR)** — 47
-- **Assisted digital** — 8, 14
+- **Accessibility (WCAG)** — 1, 9, 14, 17, 20
+- **Agile** — 1, 2, 13, 17, 18, 38
+- **AI / artificial intelligence** — 44, 47
+- **Algorithmic bias** — 9, 47
+- **Alpha, Beta, Live phases** — 1, 2, 17, 18, 44, 51
+- **Analytics / business intelligence** — 27, 53
+- **Architecture (enterprise & solution)** — 2, 3, 23
+- **Architecture decision records (ADR)** — 55
+- **Assisted digital** — 9, 16
 
 ## B
 
-- **Backlog** — 10, 11, 12, 23, 27
-- **Balanced scorecard** — 45, 48
-- **Benefits realisation** — 25, 26, 28, 38
-- **Business continuity & disaster recovery** — 6, 18, 19, 31
-- **Bus factor / key-person risk** — 47
-- **Business case** — 4, 10, 15, 24, 25, 26, 28, 33, 34, 44
+- **Backlog** — 11, 12, 13, 28, 32
+- **Balanced scorecard** — 53, 56
+- **Benefits realisation** — 30, 31, 33, 35, 45
+- **Business continuity & disaster recovery** — 7, 21, 22, 37
+- **Bus factor / key-person risk** — 55
+- **Business case** — 4, 11, 17, 29, 30, 31, 33, 39, 40, 51
 
 ## C
+- **Care Quality Commission (CQC)** — 5, 37
+- **Clinical engineering / medical devices** — 6, 26, 47
+- **Connected devices / IoMT** — 26
+- **Content design** — 15
+- **Continuous delivery (CI/CD)** — 18, 19
 
-- **Caldicott** — 1, 6, 7, 15, 34
-- **care.data (cautionary tale)** — 7
-- **Change management** — 1, 27, 32, 34, 35, 37, 38
-- **Clinical safety (DCB0129/0160)** — 1, 2, 5, 10, 11, 15, 16, 17, 18, 23, 24, 32, 33, 34, 35, 37, 44
-- **Cloud computing** — 20, 41
-- **Communities of practice** — 35, 47
-- **Communications & engagement** — 38, 39, 48
-- **Co-production** — 13, 34
-- **Cognitive load** — 2, 32
-- **Compassionate leadership** — 34, 35
-- **Continuous delivery / integration** — 1, 16, 17
-- **Conway's law** — 32
-- **Cost-effectiveness analysis / QALY** — 28, 29
-- **Cost of delay** — 12
-- **Cyber security** — 6, 18, 19
-- **Cynefin** — 11
+- **Caldicott** — 1, 7, 8, 17, 40
+- **care.data (cautionary tale)** — 8
+- **Change management** — 1, 32, 38, 40, 42, 44, 45
+- **Clinical safety (DCB0129/0160)** — 1, 2, 6, 11, 12, 17, 18, 20, 21, 28, 29, 38, 39, 40, 42, 44, 51
+- **Cloud computing** — 23, 48
+- **Communities of practice** — 42, 55
+- **Communications & engagement** — 45, 46, 56
+- **Co-production** — 14, 40
+- **Cognitive load** — 2, 38
+- **Compassionate leadership** — 40, 42
+- **Continuous delivery / integration** — 1, 18, 20
+- **Conway's law** — 38
+- **Cost-effectiveness analysis / QALY** — 33, 34
+- **Cost of delay** — 13
+- **Cyber security** — 7, 21, 22
+- **Cynefin** — 12
 
 ## D
+- **Data sovereignty** — 52
+- **DevOps & engineering excellence** — 18, 19, 21
+- **Digital public goods** — 52
+- **Digital skills & literacy (workforce)** — 40, 41, 42
 
-- **Dashboards** — 11, 22, 26, 45, 48
-- **Data ethics & consent** — 6, 7, 22
-- **Data standards (FHIR, SNOMED CT)** — 21
-- **Data Security and Protection Toolkit (DSPT)** — 6
-- **Demand management** — 10
-- **DevOps** — 16, 18, 45
-- **Digital inclusion / exclusion** — 8, 14
-- **Digital strategy & roadmap** — 2, 3, 26
-- **Discovery phase** — 1, 2, 10, 11, 15, 16, 23, 26, 44
-- **DORA metrics** — 16, 18, 45
-- **Double Diamond** — 13, 15
-- **DTAC** — 1, 5, 15, 16, 23, 24, 37, 40, 44
+- **Dashboards** — 12, 27, 31, 53, 56
+- **Data ethics & consent** — 7, 8, 27
+- **Data standards (FHIR, SNOMED CT)** — 25
+- **Data Security and Protection Toolkit (DSPT)** — 7
+- **Demand management** — 11
+- **DevOps** — 18, 21, 53
+- **Digital inclusion / exclusion** — 9, 16
+- **Digital strategy & roadmap** — 2, 3, 31
+- **Discovery phase** — 1, 2, 11, 12, 17, 18, 28, 31, 51
+- **DORA metrics** — 18, 21, 53
+- **Double Diamond** — 14, 17
+- **DTAC** — 1, 6, 17, 18, 28, 29, 44, 47, 51
 
 ## E
 
-- **Enterprise architecture** — 3, 20
-- **Enterprise resource planning (ERP)** — 27
-- **Equality, Diversity & Inclusion (workforce)** — 8, 32, 34, 35, 36
-- **Evaluation** — 4, 10, 12, 24, 25, 26, 29, 35, 37, 42, 44, 46
-- **Evidence hierarchy** — 1, 4, 15, 16, 37, 42, 44
+- **Enterprise architecture** — 3, 23
+- **Enterprise resource planning (ERP)** — 32
+- **Equality, Diversity & Inclusion (workforce)** — 9, 38, 40, 42, 43
+- **Evaluation** — 4, 11, 13, 29, 30, 31, 34, 42, 44, 49, 51, 54
+- **Evidence hierarchy** — 1, 4, 17, 18, 44, 49, 51
 
 ## F
 
-- **FHIR** — 1, 2, 21, 25, 32
-- **Five Case Model** — 24, 28, 44
+- **FHIR** — 1, 2, 25, 30, 38
+- **Five Case Model** — 29, 33, 51
 
 ## G
+- **Global & international digital health** — 52
 
-- **GDPR / data protection** — 6, 7, 10, 15, 16, 32, 37
-- **Goodhart's law** — 45
-- **Governance & assurance** — 24, 26, 31, 48
-- **Green Book (HM Treasury)** — 10, 12, 24, 25, 26, 28, 29, 44
-- **Greener NHS / net zero** — 41
+- **GDPR / data protection** — 7, 8, 11, 17, 18, 38, 44
+- **Goodhart's law** — 53
+- **Governance & assurance** — 29, 31, 37, 56
+- **Green Book (HM Treasury)** — 11, 13, 29, 30, 31, 33, 34, 51
+- **Greener NHS / net zero** — 48
 
 ## H
+- **Health literacy** — 9, 15, 16
 
-- **Health economics** — 28, 29
-- **Health inequalities** — 1, 8, 15, 22, 26, 29, 34
-- **Health Research Authority (HRA) / research governance** — 42
+- **Health economics** — 33, 34
+- **Health inequalities** — 1, 9, 17, 27, 31, 34, 40
+- **Health Research Authority (HRA) / research governance** — 49
 
 ## I
+- **Identity & access management (IAM)** — 7, 24
+- **Internet of Medical Things (IoMT)** — 26
 
-- **ICER (incremental cost-effectiveness ratio)** — 29
-- **Incident & major-incident management** — 18, 19
-- **Information governance** — 1, 6, 7, 11, 15, 16, 23, 24, 25, 32, 35, 37
-- **Integrated care system (ICS)** — 1, 2, 4, 10, 11, 12, 15, 23, 24, 25, 26, 32, 33, 34, 37, 38, 44, 45, 48
-- **Interoperability** — 1, 21, 27, 43
-- **ITIL** — 10, 11, 18
+- **ICER (incremental cost-effectiveness ratio)** — 34
+- **Incident & major-incident management** — 21, 22
+- **Information governance** — 1, 7, 8, 12, 17, 18, 28, 29, 30, 38, 42, 44
+- **Integrated care system (ICS)** — 1, 2, 4, 11, 12, 13, 17, 28, 29, 30, 31, 38, 39, 40, 44, 45, 51, 53, 56
+- **Interoperability** — 1, 25, 32, 50
+- **ITIL** — 11, 12, 21
 
 ## K
 
-- **Knowledge management** — 47
-- **Kotter's 8 steps** — 38
-- **KPIs** — 45
+- **Knowledge management** — 55
+- **Kotter's 8 steps** — 45
+- **KPIs** — 53
 
 ## L
 
-- **Lean / Six Sigma** — 1, 46
-- **Legacy systems & technical debt** — 3, 12, 16, 20
-- **Logic model** — 4, 29
+- **Lean / Six Sigma** — 1, 54
+- **Legacy systems & technical debt** — 3, 13, 18, 23
+- **Logic model** — 4, 34
 
 ## M
+- **mHealth** — 52
 
-- **Machine learning** — 40
-- **Managing Successful Programmes (MSP)** — 2, 25, 38, 48
-- **Master data** — 27
+- **Machine learning** — 47
+- **Managing Successful Programmes (MSP)** — 2, 30, 45, 56
+- **Master data** — 32
 - **Maturity models** — every chapter
-- **Mental Capacity Act** — 9
-- **MHRA** — 5, 40
-- **Minimum viable product (MVP)** — 45
-- **MLOps** — 40
-- **Model for Improvement / PDSA** — 46
-- **MoSCoW** — 12
-- **Multidisciplinary teams** — 1, 13, 15, 23, 32
+- **Mental Capacity Act** — 10
+- **MHRA** — 6, 47
+- **Minimum viable product (MVP)** — 53
+- **MLOps** — 47
+- **Model for Improvement / PDSA** — 54
+- **MoSCoW** — 13
+- **Multidisciplinary teams** — 1, 14, 17, 28, 38
 
 ## N
 
-- **Net zero / sustainability** — 41
-- **NHS App / patient-facing services** — 8, 14, 21
-- **NICE** — 1, 4, 12, 15, 16, 29, 37, 40, 42, 44
+- **Net zero / sustainability** — 48
+- **NHS App / patient-facing services** — 9, 16, 25
+- **NICE** — 1, 4, 13, 17, 18, 34, 44, 47, 49, 51
 
 ## O
 
-- **OKRs** — 2, 12, 23, 45, 48
-- **Operating model** — 1, 2, 3, 10, 23, 25
-- **Organisational development** — 32, 33, 34, 35, 38
-- **Outcomes vs outputs** — 29, 45
+- **OKRs** — 2, 13, 28, 53, 56
+- **Operating model** — 1, 2, 3, 11, 28, 30
+- **Organisational development** — 38, 39, 40, 42, 45
+- **Outcomes vs outputs** — 34, 53
 
 ## P
+- **Platform engineering** — 19, 23
+- **Plain language / readability** — 15
 
-- **Patient & public involvement** — 13, 42
-- **Personal health record (PHR)** — 14
-- **PMO / EPMO** — 26
-- **Population health management** — 22
-- **Portfolio management** — 2, 10, 12, 15, 16, 23, 24, 25, 26, 27, 33, 37, 48
-- **PRINCE2** — 24
-- **Procurement & commercial** — 20, 27, 28, 30
-- **Product management** — 16, 23, 24, 25
-- **Programme management** — 23, 24, 25
-- **Project management** — 23, 24, 25
-- **PROMs / PREMs** — 29
-- **Psychological safety** — 35, 46
+- **Patient & public involvement** — 14, 49
+- **Personal health record (PHR)** — 16
+- **PMO / EPMO** — 31
+- **Population health management** — 27
+- **Portfolio management** — 2, 11, 13, 17, 18, 28, 29, 30, 31, 32, 39, 44, 56
+- **PRINCE2** — 29
+- **Procurement & commercial** — 23, 32, 33, 36
+- **Product management** — 18, 28, 29, 30
+- **Programme management** — 28, 29, 30
+- **Project management** — 28, 29, 30
+- **PROMs / PREMs** — 34
+- **Psychological safety** — 42, 54
 
 ## Q
 
-- **QALY (Quality-Adjusted Life Year)** — 29
-- **Quality assurance & testing** — 5, 16, 17, 18
-- **Quality improvement (QI)** — 4, 38, 45, 46
+- **QALY (Quality-Adjusted Life Year)** — 34
+- **Quality assurance & testing** — 6, 18, 20, 21
+- **Quality improvement (QI)** — 4, 45, 53, 54
 
 ## R
+- **Regulation & compliance** — 5, 6, 7, 37, 47
+- **Role-based access control (RBAC)** — 7, 24
 
-- **RACI** — 2, 31, 32
-- **RAID log** — 24, 31
-- **Randomised controlled trial** — 4, 42
-- **Real-world evidence & evaluation** — 4, 29, 37, 42
-- **Records management** — 6, 47
-- **Recovery time / point objective (RTO/RPO)** — 19
-- **RICE** — 12
-- **Roadmaps** — 2, 3, 10, 11, 23, 26, 32, 38
-- **Run charts / SPC** — 45, 46
+- **RACI** — 2, 37, 38
+- **RAID log** — 29, 37
+- **Randomised controlled trial** — 4, 49
+- **Real-world evidence & evaluation** — 4, 34, 44, 49
+- **Records management** — 7, 55
+- **Recovery time / point objective (RTO/RPO)** — 22
+- **RICE** — 13
+- **Roadmaps** — 2, 3, 11, 12, 28, 31, 38, 45
+- **Run charts / SPC** — 53, 54
 
 ## S
 
-- **SAFe / Scaled Agile** — 1, 2, 4, 10, 12, 15, 16, 32, 34, 35, 37, 44, 48
-- **Safeguarding** — 5, 8, 9, 14
-- **Secure Data Environment (SDE) / TRE** — 7, 22
-- **Service assessment** — 16, 31, 44
-- **Service design & user research** — 1, 8, 13, 15, 23, 32
-- **Service management & live operations** — 18, 19
-- **Service Standard** — 1, 2, 10, 11, 12, 13, 15, 16, 23, 24, 32, 44
-- **Site reliability engineering (SRE) / SLOs** — 18
-- **Six-step workforce methodology** — 33, 34
-- **SNOMED CT** — 21
-- **Social partnership** — 34, 38
-- **Social value** — 30, 41
-- **Software as a Medical Device (SaMD)** — 5, 40
-- **Senior Responsible Owner (SRO)** — 31
-- **Stage gates** — 16, 24, 26, 31
-- **Stakeholders** — 12, 15, 25, 26, 38, 39
-- **Statistical process control (SPC)** — 45, 46, 48
-- **Suppliers / vendors** — 1, 2, 4, 10, 11, 15, 16, 20, 23, 24, 25, 27, 30, 37, 44, 45
+- **SAFe / Scaled Agile** — 1, 2, 4, 11, 13, 17, 18, 38, 40, 42, 44, 51, 56
+- **Safeguarding** — 6, 9, 10, 16
+- **Secure Data Environment (SDE) / TRE** — 8, 27
+- **Service assessment** — 18, 37, 51
+- **Service design & user research** — 1, 9, 14, 17, 28, 38
+- **Service management & live operations** — 21, 22
+- **Service Standard** — 1, 2, 11, 12, 13, 14, 17, 18, 28, 29, 38, 51
+- **Site reliability engineering (SRE) / SLOs** — 21
+- **Six-step workforce methodology** — 39, 40
+- **SNOMED CT** — 25
+- **Social partnership** — 40, 45
+- **Social value** — 36, 48
+- **Software as a Medical Device (SaMD)** — 6, 47
+- **Senior Responsible Owner (SRO)** — 37
+- **Stage gates** — 18, 29, 31, 37
+- **Stakeholders** — 13, 17, 30, 31, 45, 46
+- **Statistical process control (SPC)** — 53, 54, 56
+- **Suppliers / vendors** — 1, 2, 4, 11, 12, 17, 18, 23, 28, 29, 30, 32, 36, 44, 51, 53
 
 ## T
 
-- **Target operating model** — 2, 25
-- **Team Topologies** — 2, 32
-- **Technical architecture** — 3, 20, 21
-- **Technical debt** — 12, 16, 20
-- **Testing & quality assurance** — 5, 16, 17, 18
-- **Thinnest viable platform** — 1, 2, 20
-- **Three lines of defence** — 31
-- **Topol Review** — 33, 34, 35
-- **Triage** — 2, 10, 11, 12, 15, 33, 45
+- **Target operating model** — 2, 30
+- **Team Topologies** — 2, 38
+- **Technical architecture** — 3, 23, 25
+- **Technical debt** — 13, 18, 23
+- **Testing & quality assurance** — 6, 18, 20, 21
+- **Thinnest viable platform** — 1, 2, 23
+- **Three lines of defence** — 37
+- **Topol Review** — 39, 40, 42
+- **Triage** — 2, 11, 12, 13, 17, 39, 53
 
 ## U
 
-- **User research** — 1, 8, 13, 14, 15, 23, 32
+- **User research** — 1, 9, 14, 16, 17, 28, 38
 
 ## V
+- **Value management** — 33, 35
 
-- **Value streams** — 2, 23
-- **Vendor lock-in** — 21, 30
+- **Value streams** — 2, 28
+- **Vendor lock-in** — 25, 36
 
 ## W
+- **WHO digital health strategy** — 52
 
 - **Wardley mapping** — 3
-- **Waterfall** — 1, 16
-- **Watermelon reporting** — 48
-- **Wellbeing** — 34
+- **Waterfall** — 1, 18
+- **Watermelon reporting** — 56
+- **Wellbeing** — 40
 - **What Good Looks Like (WGLL)** — 3
-- **Work intake** — 10, 11, 12
-- **Workforce EDI (WRES / WDES)** — 36
-- **Workforce planning** — 32, 33, 34, 35
-- **Workforce strategy** — 32, 33, 34, 35
-- **WSJF** — 12
+- **Work intake** — 11, 12, 13
+- **Workforce EDI (WRES / WDES)** — 43
+- **Workforce planning** — 38, 39, 40, 42
+- **Workforce strategy** — 38, 39, 40, 42
+- **WSJF** — 13
+
+
+## Z
+
+- **Zero trust** — 24
