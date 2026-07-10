@@ -2,7 +2,7 @@
 
 **Status:** Authoritative source of truth. This document governs the book. Where a chapter, the README, the style guide, or any generated content disagrees with this spec, **this spec wins** — fix the artifact, or change the spec deliberately and then bring the artifacts into line.
 
-**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 57 files first.
+**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 61 files first.
 
 ---
 
@@ -28,7 +28,7 @@ Chief executives and senior leaders; directors of digital and transformation; pr
 | `README.md` | Reader-facing front door + table of contents. Must list every chapter with correct number, title, and filename. |
 | `STYLE_GUIDE.md` | The prose/formatting contract every chapter author follows. Subordinate to this spec. |
 | `00-preface.md` | Front matter. |
-| `NN-slug.md` | The 58 chapters (see manifest, §4). |
+| `NN-slug.md` | The 62 chapters (see manifest, §4). |
 | `GLOSSARY.md` | A–Z definitions of key terms, Wikipedia-linked, each pointing to its home chapter. |
 | `INDEX.md` | A–Z concepts/frameworks → chapter numbers (numbers are **chapter numbers, not pages**). |
 | `_sources/` | Raw source material used for grounding (e.g. workforce-strategy text). Not shipped as chapters. |
@@ -59,89 +59,92 @@ Every chapter uses these headings, in this order. This is the contract the matur
 
 ## 4. Chapter manifest
 
-58 chapters in 10 parts, plus front and reference matter. Numbers, titles, and filenames are canonical — `README.md` must match exactly.
+62 chapters in 10 parts, numbered by part and within-part (section.chapter, e.g. `1.0`, `1.1`), plus front and reference matter. Numbers, titles, and filenames are canonical — `README.md` must match exactly.
 
-**Part I — Foundations**
-1. Ways of Working in Digital Health & Care — `01-introduction.md`
-2. The Operating Model — `02-operating-model.md`
-3. Digital Strategy & Roadmapping — `03-digital-strategy-roadmapping.md`
-4. Evidence-Driven Decisions — `04-evidence-driven-decisions.md`
-5. Regulation & Compliance Landscape — `05-regulation-compliance.md`
-6. Clinical Safety & Risk Management — `06-clinical-safety.md`
-7. Information Governance, Data Protection & Cyber Security — `07-information-governance-cyber.md`
-8. Data Ethics, Consent & Public Trust — `08-data-ethics-consent-trust.md`
-9. Digital Inclusion & Accessibility — `09-digital-inclusion-accessibility.md`
-10. Safeguarding in Digital Services — `10-safeguarding-digital-services.md`
+**Part 1 — Foundations**
+1.0. Ways of Working in Digital Health & Care — `01.00-introduction.md`
+1.1. The Operating Model — `01.01-operating-model.md`
+1.2. Digital Strategy & Roadmapping — `01.02-digital-strategy-roadmapping.md`
+1.3. Evidence-Driven Decisions — `01.03-evidence-driven-decisions.md`
+1.4. Regulation & Compliance Landscape — `01.04-regulation-compliance.md`
+1.5. Clinical Safety & Risk Management — `01.05-clinical-safety.md`
+1.6. Information Governance, Data Protection & Cyber Security — `01.06-information-governance-cyber.md`
+1.7. Data Ethics, Consent & Public Trust — `01.07-data-ethics-consent-trust.md`
+1.8. Digital Inclusion & Accessibility — `01.08-digital-inclusion-accessibility.md`
+1.9. Safeguarding in Digital Services — `01.09-safeguarding-digital-services.md`
 
-**Part II — Managing the Flow of Work**
-11. Work Intake — `11-work-intake.md`
-12. Work Triage — `12-work-triage.md`
-13. Work Prioritisation — `13-work-prioritisation.md`
+**Part 2 — Managing the Flow of Work**
+2.0. Work Intake — `02.00-work-intake.md`
+2.1. Work Triage — `02.01-work-triage.md`
+2.2. Work Prioritisation — `02.02-work-prioritisation.md`
 
-**Part III — The Delivery Lifecycle**
-14. User Research & Service Design — `14-user-research-service-design.md`
-15. Content Design & Health Literacy — `15-content-design-health-literacy.md`
-16. Patient & Citizen-Facing Digital Services — `16-patient-citizen-facing-services.md`
-17. Discovery Phases — `17-discovery-phases.md`
-18. Delivery Lifecycles — `18-delivery-lifecycles.md`
-19. DevOps & Engineering Excellence — `19-devops-engineering-excellence.md`
-20. Testing & Quality Assurance — `20-testing-quality-assurance.md`
-21. Service Management & Live Operations — `21-service-management-operations.md`
-22. Business Continuity & Disaster Recovery — `22-business-continuity-disaster-recovery.md`
-23. Emergency Preparedness, Resilience & Response — `23-emergency-preparedness-response.md`
+**Part 3 — The Delivery Lifecycle**
+3.0. User Research & Service Design — `03.00-user-research-service-design.md`
+3.1. Content Design & Health Literacy — `03.01-content-design-health-literacy.md`
+3.2. Design Systems & Prototyping — `03.02-design-systems-prototyping.md`
+3.3. Patient & Citizen-Facing Digital Services — `03.03-patient-citizen-facing-services.md`
+3.4. Discovery Phases — `03.04-discovery-phases.md`
+3.5. Delivery Lifecycles — `03.05-delivery-lifecycles.md`
+3.6. DevOps & Engineering Excellence — `03.06-devops-engineering-excellence.md`
+3.7. Testing & Quality Assurance — `03.07-testing-quality-assurance.md`
+3.8. Service Management & Live Operations — `03.08-service-management-operations.md`
+3.9. Business Continuity & Disaster Recovery — `03.09-business-continuity-disaster-recovery.md`
+3.10. Emergency Preparedness, Resilience & Response — `03.10-emergency-preparedness-response.md`
 
-**Part IV — Technology, Architecture & Data**
-24. Technical Architecture, Cloud & Legacy — `24-technical-architecture-cloud-legacy.md`
-25. Identity & Access Management — `25-identity-access-management.md`
-26. Interoperability & Data Standards — `26-interoperability-data-standards.md`
-27. Connected Devices, IoT & Clinical Engineering — `27-connected-devices-iot.md`
-28. Data, Analytics & Population Health Management — `28-data-analytics-population-health.md`
+**Part 4 — Technology, Architecture & Data**
+4.0. Technical Architecture, Cloud & Legacy — `04.00-technical-architecture-cloud-legacy.md`
+4.1. Identity & Access Management — `04.01-identity-access-management.md`
+4.2. Interoperability & Data Standards — `04.02-interoperability-data-standards.md`
+4.3. Connected Devices, IoT & Clinical Engineering — `04.03-connected-devices-iot.md`
+4.4. Data, Analytics & Population Health Management — `04.04-data-analytics-population-health.md`
 
-**Part V — Modes of Delivery**
-29. Product-Led Work — `29-product-led-work.md`
-30. Project-Led Work — `30-project-led-work.md`
-31. Programme-Led Work — `31-programme-led-work.md`
-32. Enterprise Project Portfolio Management (EPPM) — `32-eppm.md`
-33. Enterprise Resource Planning (ERP) — `33-erp.md`
+**Part 5 — Modes of Delivery**
+5.0. Product-Led Work — `05.00-product-led-work.md`
+5.1. Project-Led Work — `05.01-project-led-work.md`
+5.2. Programme-Led Work — `05.02-programme-led-work.md`
+5.3. Enterprise Project Portfolio Management (EPPM) — `05.03-eppm.md`
+5.4. Enterprise Resource Planning (ERP) — `05.04-erp.md`
 
-**Part VI — Money, Value & Governance**
-34. Financial Management & Business Cases — `34-financial-management-business-cases.md`
-35. Health Economics — `35-health-economics.md`
-36. Benefits Realisation & Value Management — `36-benefits-realisation-value.md`
-37. Procurement & Commercial — `37-procurement-commercial.md`
-38. Governance & Assurance — `38-governance-assurance.md`
+**Part 6 — Money, Value & Governance**
+6.0. Financial Management & Business Cases — `06.00-financial-management-business-cases.md`
+6.1. Health Economics — `06.01-health-economics.md`
+6.2. Benefits Realisation & Value Management — `06.02-benefits-realisation-value.md`
+6.3. Procurement & Commercial — `06.03-procurement-commercial.md`
+6.4. Governance & Assurance — `06.04-governance-assurance.md`
 
-**Part VII — People, Teams & Workforce**
-39. Team Structures, Roles & Responsibilities — `39-team-structures-roles.md`
-40. Workforce Planning — `40-workforce-planning.md`
-41. Workforce Strategy — `41-workforce-strategy.md`
-42. Digital Skills & Capability Building — `42-digital-skills-capability.md`
-43. People & Organisational Development — `43-people-org-development.md`
-44. Workforce Equality, Diversity & Inclusion — `44-workforce-edi.md`
+**Part 7 — People, Teams & Workforce**
+7.0. Team Structures, Roles & Responsibilities — `07.00-team-structures-roles.md`
+7.1. Agile Delivery Practices & Team Health — `07.01-agile-delivery-team-health.md`
+7.2. Workforce Planning — `07.02-workforce-planning.md`
+7.3. Workforce Strategy — `07.03-workforce-strategy.md`
+7.4. Digital Skills & Capability Building — `07.04-digital-skills-capability.md`
+7.5. People & Organisational Development — `07.05-people-org-development.md`
+7.6. Workforce Equality, Diversity & Inclusion — `07.06-workforce-edi.md`
 
-**Part VIII — Change & Innovation**
-45. Phasing in Innovation — `45-phasing-innovation.md`
-46. Change Management — `46-change-management.md`
-47. Communications & Engagement — `47-communications-engagement.md`
-48. AI & Emerging Technology Governance — `48-ai-emerging-technology.md`
-49. Sustainability & Net Zero — `49-sustainability-net-zero.md`
-50. Research & Real-World Evaluation — `50-research-real-world-evaluation.md`
+**Part 8 — Change & Innovation**
+8.0. Phasing in Innovation — `08.00-phasing-innovation.md`
+8.1. Change Management — `08.01-change-management.md`
+8.2. Communications & Engagement — `08.02-communications-engagement.md`
+8.3. Behavioural Science & Adoption — `08.03-behavioural-science-adoption.md`
+8.4. AI & Emerging Technology Governance — `08.04-ai-emerging-technology.md`
+8.5. Sustainability & Net Zero — `08.05-sustainability-net-zero.md`
+8.6. Research & Real-World Evaluation — `08.06-research-real-world-evaluation.md`
 
-**Part IX — Partnerships & Government**
-51. Collaborating with Partner Organisations — `51-collaborating-partner-organizations.md`
-52. Working with Local & National Governments — `52-working-with-governments.md`
-53. Global & International Digital Health — `53-global-international-digital-health.md`
+**Part 9 — Partnerships & Government**
+9.0. Collaborating with Partner Organisations — `09.00-collaborating-partner-organizations.md`
+9.1. Working with Local & National Governments — `09.01-working-with-governments.md`
+9.2. Global & International Digital Health — `09.02-global-international-digital-health.md`
+9.3. Digital in Adult Social Care — `09.03-digital-adult-social-care.md`
 
-**Part X — Measurement, Improvement, Knowledge & Leadership**
-54. Objectives & Key Results (OKRs) — `54-okrs.md`
-55. Key Performance Indicators (KPIs) — `55-kpis.md`
-56. Quality Improvement & Improvement Science — `56-quality-improvement.md`
-57. Knowledge Management & Documentation — `57-knowledge-management.md`
-58. Visibility for the CEO & Senior Leaders — `58-leadership-visibility.md`
+**Part 10 — Measurement, Improvement, Knowledge & Leadership**
+10.0. Objectives & Key Results (OKRs) — `10.00-okrs.md`
+10.1. Key Performance Indicators (KPIs) — `10.01-kpis.md`
+10.2. Quality Improvement & Improvement Science — `10.02-quality-improvement.md`
+10.3. Knowledge Management & Documentation — `10.03-knowledge-management.md`
+10.4. Visibility for the CEO & Senior Leaders — `10.04-leadership-visibility.md`
 
 **Front matter:** Preface — `00-preface.md`
 **Reference:** Glossary — `GLOSSARY.md` · Index — `INDEX.md`
-
 
 ## 5. Voice, style & formatting rules
 
@@ -151,7 +154,7 @@ Every chapter uses these headings, in this order. This is the contract the matur
 - **Spelling:** UK spelling (organis*e*, prioritis*e*, programme). Exception: keep "program" only for a US-style software program; use "programme" for the delivery construct (programme management, MSP). Be consistent within a chapter.
 - **Paragraphs:** 2–4 sentences. Markdown only. Use tables for comparisons and maturity models.
 - **Length:** target **~3,000–3,500 words of substantive prose per chapter** (most run ~3,000–4,000 words including tables and references). Deepen rather than pad; never invent filler. No chapter should fall below ~3,000 words.
-- **Cross-references:** reference sibling chapters by number and title — e.g. "(see Chapter 46 — Change Management)". Always include the title, not just the number, so references survive renumbering.
+- **Cross-references:** reference sibling chapters by number and title — e.g. "(see Chapter 8.1 — Change Management)". Always include the title, not just the number, so references survive renumbering.
 
 ---
 
@@ -221,7 +224,7 @@ Adding, removing, splitting, merging, or reordering chapters is the highest-risk
 
 1. **Decide the final manifest first** — the complete target list of numbers, titles, and filenames — before touching any file.
 2. **Back up.** Untracked files are not protected by git; copy the directory somewhere safe before renumbering.
-3. **Remap in one pass.** Rewrite in-prose "Chapter N" references by mapping each integer through a single lookup, so that (for example) remapping 1 to 2 cannot also corrupt "Chapter 12". Rename files two-phase (to a temporary name, then to the final name) to avoid collisions when numbers shift.
+3. **Remap in one pass.** Rewrite in-prose chapter references by mapping each chapter label through a single lookup applied once, so a shorter label can never partially match a longer one. Rename files two-phase (to a temporary name, then to the final name) to avoid collisions when numbers shift.
 4. **Remap the reference matter.** Update the chapter-number lists in `INDEX.md` and the "See Chapter N" pointers in `GLOSSARY.md` through the same map.
 5. **Rebuild** `README.md` and this manifest (§4) to match, then re-run the consistency gate (§10). Fix any reference whose title no longer matches its number, including pre-existing ones the renumber exposes.
 
@@ -249,8 +252,8 @@ To keep the book coherent, some things are deliberately out of scope:
 
 - **Not a clinical guideline or a product manual.** The book describes *how to work* — the operating disciplines of digital delivery — not clinical protocols, condition-specific pathways, or step-by-step instructions for a particular product or platform.
 - **Not vendor or tool documentation.** Name frameworks and standards, but do not become a how-to for a specific commercial product; those date quickly and belong elsewhere.
-- **Not a legal or regulatory authority.** The book explains the terrain (see Chapter 5 — Regulation & Compliance Landscape) and points to primary sources, but readers must consult current statute, regulator guidance, and their own governance for binding decisions.
-- **UK-centred, not UK-only.** The centre of gravity is the NHS and UK social care; internationally-transferable principles are welcome (and Chapter 53 makes the global case), but the book does not attempt to document every jurisdiction.
+- **Not a legal or regulatory authority.** The book explains the terrain (see Chapter 1.4 — Regulation & Compliance Landscape) and points to primary sources, but readers must consult current statute, regulator guidance, and their own governance for binding decisions.
+- **UK-centred, not UK-only.** The centre of gravity is the NHS and UK social care; internationally-transferable principles are welcome (and Chapter 9.2 makes the global case), but the book does not attempt to document every jurisdiction.
 
 When a proposed addition falls into a non-goal, prefer a short signpost and an authoritative external reference over new chapters, so the book stays focused on ways of working.
 

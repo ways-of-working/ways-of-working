@@ -16,7 +16,7 @@ Every chapter is built the same way — thesis, why it matters in health and car
 
 ### How to read it
 
-Read Part I to fix the shared vocabulary, then treat the rest as a reference. If your problem is "too much work, no way to choose," start at Part II. If it is "our transformation keeps stalling," start with change (Chapter 47) and phasing innovation (Chapter 46). If it is "the board can't see what's really happening," start with Chapters 57 and 58. The cross-references will pull you to the neighbouring chapters you need.
+Read Part I to fix the shared vocabulary, then treat the rest as a reference. If your problem is "too much work, no way to choose," start at Part II. If it is "our transformation keeps stalling," start with change (Chapter 8.5) and phasing innovation (Chapter 8.4). If it is "the board can't see what's really happening," start with Chapters 10.3 and 10.4. The cross-references will pull you to the neighbouring chapters you need.
 
 ### A note on grounding and scope
 

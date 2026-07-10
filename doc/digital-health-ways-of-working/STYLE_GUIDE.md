@@ -37,7 +37,7 @@ Senior leaders, delivery leads, product managers, clinicians-turned-digital-lead
 - Bold the lead phrase of each best practice.
 - Target ~2,500–3,500 words per chapter (current chapters run ~2,900–3,400). Be comprehensive but not padded.
 - Use UK spelling (organisation, prioritise, programme) EXCEPT keep "program" when it means a US-style software program; use "programme" for the delivery construct (programme management, MSP). Be consistent within a chapter.
-- Cross-reference sibling chapters by number and title, e.g. "(see Chapter 46 — Change Management)". The canonical chapter numbering lives in `spec/index.md` §4 — check it before citing a number.
+- Cross-reference sibling chapters by number and title, e.g. "(see Chapter 8.1 — Change Management)". The canonical chapter numbering lives in `spec/index.md` §4 — check it before citing a number.
 
 ## Grounding
 - Ground claims in recognised frameworks and public guidance. Real, checkable sources only — do not invent citations, URLs, statistics, or quotations. If unsure of a figure, describe the pattern qualitatively instead.
