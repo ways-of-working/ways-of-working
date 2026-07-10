@@ -2,7 +2,7 @@
 
 **Status:** Authoritative source of truth. This document governs the book. Where a chapter, the README, the style guide, or any generated content disagrees with this spec, **this spec wins** — fix the artifact, or change the spec deliberately and then bring the artifacts into line.
 
-**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 61 files first.
+**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 62 files first.
 
 ---
 
@@ -28,7 +28,7 @@ Chief executives and senior leaders; directors of digital and transformation; pr
 | `README.md` | Reader-facing front door + table of contents. Must list every chapter with correct number, title, and filename. |
 | `STYLE_GUIDE.md` | The prose/formatting contract every chapter author follows. Subordinate to this spec. |
 | `00-preface.md` | Front matter. |
-| `NN-slug.md` | The 62 chapters (see manifest, §4). |
+| `NN-slug.md` | The 63 chapters (see manifest, §4). |
 | `GLOSSARY.md` | A–Z definitions of key terms, Wikipedia-linked, each pointing to its home chapter. |
 | `INDEX.md` | A–Z concepts/frameworks → chapter numbers (numbers are **chapter numbers, not pages**). |
 | `_sources/` | Raw source material used for grounding (e.g. workforce-strategy text). Not shipped as chapters. |
@@ -59,19 +59,20 @@ Every chapter uses these headings, in this order. This is the contract the matur
 
 ## 4. Chapter manifest
 
-62 chapters in 10 parts, numbered by part and within-part (section.chapter, e.g. `1.0`, `1.1`), plus front and reference matter. Numbers, titles, and filenames are canonical — `README.md` must match exactly.
+63 chapters in 10 parts, numbered by part and within-part (section.chapter, e.g. `1.0`, `1.1`), plus front and reference matter. Numbers, titles, and filenames are canonical — `README.md` must match exactly.
 
 **Part 1 — Foundations**
 1.0. Ways of Working in Digital Health & Care — `01.00-introduction.md`
 1.1. The Operating Model — `01.01-operating-model.md`
 1.2. Digital Strategy & Roadmapping — `01.02-digital-strategy-roadmapping.md`
 1.3. Evidence-Driven Decisions — `01.03-evidence-driven-decisions.md`
-1.4. Regulation & Compliance Landscape — `01.04-regulation-compliance.md`
-1.5. Clinical Safety & Risk Management — `01.05-clinical-safety.md`
-1.6. Information Governance, Data Protection & Cyber Security — `01.06-information-governance-cyber.md`
-1.7. Data Ethics, Consent & Public Trust — `01.07-data-ethics-consent-trust.md`
-1.8. Digital Inclusion & Accessibility — `01.08-digital-inclusion-accessibility.md`
-1.9. Safeguarding in Digital Services — `01.09-safeguarding-digital-services.md`
+1.4. Hazard Ratios — `01.04-hazard-ratios.md`
+1.5. Regulation & Compliance Landscape — `01.05-regulation-compliance.md`
+1.6. Clinical Safety & Risk Management — `01.06-clinical-safety.md`
+1.7. Information Governance, Data Protection & Cyber Security — `01.07-information-governance-cyber.md`
+1.8. Data Ethics, Consent & Public Trust — `01.08-data-ethics-consent-trust.md`
+1.9. Digital Inclusion & Accessibility — `01.09-digital-inclusion-accessibility.md`
+1.10. Safeguarding in Digital Services — `01.10-safeguarding-digital-services.md`
 
 **Part 2 — Managing the Flow of Work**
 2.0. Work Intake — `02.00-work-intake.md`
@@ -252,7 +253,7 @@ To keep the book coherent, some things are deliberately out of scope:
 
 - **Not a clinical guideline or a product manual.** The book describes *how to work* — the operating disciplines of digital delivery — not clinical protocols, condition-specific pathways, or step-by-step instructions for a particular product or platform.
 - **Not vendor or tool documentation.** Name frameworks and standards, but do not become a how-to for a specific commercial product; those date quickly and belong elsewhere.
-- **Not a legal or regulatory authority.** The book explains the terrain (see Chapter 1.4 — Regulation & Compliance Landscape) and points to primary sources, but readers must consult current statute, regulator guidance, and their own governance for binding decisions.
+- **Not a legal or regulatory authority.** The book explains the terrain (see Chapter 1.5 — Regulation & Compliance Landscape) and points to primary sources, but readers must consult current statute, regulator guidance, and their own governance for binding decisions.
 - **UK-centred, not UK-only.** The centre of gravity is the NHS and UK social care; internationally-transferable principles are welcome (and Chapter 9.2 makes the global case), but the book does not attempt to document every jurisdiction.
 
 When a proposed addition falls into a non-goal, prefer a short signpost and an authoritative external reference over new chapters, so the book stays focused on ways of working.

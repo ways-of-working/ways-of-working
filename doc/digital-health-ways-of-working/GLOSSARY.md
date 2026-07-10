@@ -4,7 +4,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## A
 
-**Accessibility** — Designing services so people with disabilities can use them; in UK public services, measured against the [Web Content Accessibility Guidelines (WCAG)](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) and a legal duty. See Chapters 1.8, 3.0.
+**Accessibility** — Designing services so people with disabilities can use them; in UK public services, measured against the [Web Content Accessibility Guidelines (WCAG)](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) and a legal duty. See Chapters 1.9, 3.0.
 
 **ADKAR** — Prosci's individual change model: Awareness, Desire, Knowledge, Ability, Reinforcement. A people-centred complement to organisational change models. See Chapter 8.1.
 
@@ -16,9 +16,11 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Artificial intelligence (AI)** — Computer systems performing tasks that normally require human intelligence; in health, increasingly delivered through machine learning. See [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence). See Chapter 8.4.
 
-**Assisted digital** — Support for people who cannot use a digital service independently, so they are not excluded. See Chapter 1.8.
+**Assisted digital** — Support for people who cannot use a digital service independently, so they are not excluded. See Chapter 1.9.
 
 ## B
+
+**Budget impact analysis** — An estimate of the total cash cost of adopting an intervention across a health system; something can be cost-effective yet unaffordable in-year. See Chapter 6.1.
 
 **Behaviour Change Wheel / COM-B** — A framework explaining behaviour through Capability, Opportunity and Motivation, used to design adoption interventions. See Chapter 8.3.
 
@@ -38,7 +40,9 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## C
 
-**Care Quality Commission (CQC)** — The independent regulator of health and adult social care in England, whose remit includes digitally-enabled and well-led care. See Chapter 1.4.
+**Cost–benefit analysis (CBA)** — An economic evaluation that expresses both costs and health benefits in monetary terms. See [Cost–benefit analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis). See Chapter 6.1.
+
+**Care Quality Commission (CQC)** — The independent regulator of health and adult social care in England, whose remit includes digitally-enabled and well-led care. See Chapter 1.5.
 
 **Clinical engineering** — The discipline (also biomedical engineering) that manages medical devices across their lifecycle — inventory, maintenance, safety and decommissioning. See Chapter 4.3.
 
@@ -46,11 +50,11 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Cloud computing** — Delivering computing services over the internet on a public or hybrid basis. See [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing). See Chapter 4.0.
 
-**Caldicott Guardian** — A senior person responsible for protecting the confidentiality of health and care information and enabling appropriate sharing. See [Caldicott Guardian](https://en.wikipedia.org/wiki/Caldicott_Guardian). See Chapter 1.6.
+**Caldicott Guardian** — A senior person responsible for protecting the confidentiality of health and care information and enabling appropriate sharing. See [Caldicott Guardian](https://en.wikipedia.org/wiki/Caldicott_Guardian). See Chapter 1.7.
 
 **Change management** — The structured approach to moving people and organisations from a current to a future state. See [Change management](https://en.wikipedia.org/wiki/Change_management). See Chapter 8.1.
 
-**Clinical safety (DCB0129/DCB0160)** — Mandatory NHS standards for managing clinical risk in the manufacture (DCB0129) and deployment (DCB0160) of health IT, overseen by a Clinical Safety Officer. See Chapter 1.5.
+**Clinical safety (DCB0129/DCB0160)** — Mandatory NHS standards for managing clinical risk in the manufacture (DCB0129) and deployment (DCB0160) of health IT, overseen by a Clinical Safety Officer. See Chapter 1.6.
 
 **Continuous delivery / integration** — Engineering practices for releasing software frequently and safely. See [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery) and [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration). See Chapter 3.5.
 
@@ -60,7 +64,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Cost of delay** — The economic cost of not having something finished yet; the numerator in prioritisation methods such as WSJF. See [Cost of delay](https://en.wikipedia.org/wiki/Cost_of_delay). See Chapter 2.2.
 
-**Cyber security** — Protecting systems, networks and data from digital attack; in the NHS, guided by the NCSC and the Data Security and Protection Toolkit. See [Computer security](https://en.wikipedia.org/wiki/Computer_security). See Chapter 1.6.
+**Cyber security** — Protecting systems, networks and data from digital attack; in the NHS, guided by the NCSC and the Data Security and Protection Toolkit. See [Computer security](https://en.wikipedia.org/wiki/Computer_security). See Chapter 1.7.
 
 **Cynefin** — A sense-making framework distinguishing clear, complicated, complex and chaotic contexts to match the response to the situation. See [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework). See Chapters 1.3, 2.1.
 
@@ -74,19 +78,19 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Digital literacy** — The capability of the whole workforce (not just specialists) to use digital tools confidently and safely. See Chapter 7.4.
 
-**Data ethics** — Doing the right thing with data beyond legal compliance; social licence and public trust. See [Big data ethics](https://en.wikipedia.org/wiki/Big_data_ethics). See Chapter 1.7.
+**Data ethics** — Doing the right thing with data beyond legal compliance; social licence and public trust. See [Big data ethics](https://en.wikipedia.org/wiki/Big_data_ethics). See Chapter 1.8.
 
 **Digital strategy** — A statement of digital vision, priorities and roadmap aligned to organisational and clinical strategy. See Chapter 1.2.
 
 **Disaster recovery** — The technical recovery of systems and data after a major failure, measured by RTO and RPO. See [IT disaster recovery](https://en.wikipedia.org/wiki/IT_disaster_recovery). See Chapter 3.9.
 
-**Data Security and Protection Toolkit (DSPT)** — The annual self-assessment NHS and social-care organisations complete to show they meet data-security and information-governance standards. See Chapter 1.6.
+**Data Security and Protection Toolkit (DSPT)** — The annual self-assessment NHS and social-care organisations complete to show they meet data-security and information-governance standards. See Chapter 1.7.
 
 **Demand management** — Capturing, understanding and shaping the flow of incoming requests so supply can meet it. See Chapters 2.0, 5.3.
 
 **Diffusion of innovations** — Rogers' theory of how new ideas and technology spread through a population over time. See [Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations). See Chapter 8.0.
 
-**Digital inclusion / exclusion** — Whether people can access and use digital services; exclusion (the [digital divide](https://en.wikipedia.org/wiki/Digital_divide)) maps closely onto health inequalities. See Chapter 1.8.
+**Digital inclusion / exclusion** — Whether people can access and use digital services; exclusion (the [digital divide](https://en.wikipedia.org/wiki/Digital_divide)) maps closely onto health inequalities. See Chapter 1.9.
 
 **Discovery** — The first lifecycle phase: understanding users and the problem before committing to a solution. See Chapter 3.4.
 
@@ -94,9 +98,11 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Double Diamond** — The Design Council's model of divergent-then-convergent thinking across "discover/define" and "develop/deliver". See [Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)). See Chapters 3.0, 3.4.
 
-**DTAC** — The NHS Digital Technology Assessment Criteria: a baseline for clinical safety, data protection, security, interoperability and usability of digital health products. See Chapters 1.5, 8.4.
+**DTAC** — The NHS Digital Technology Assessment Criteria: a baseline for clinical safety, data protection, security, interoperability and usability of digital health products. See Chapters 1.6, 8.4.
 
 ## E
+
+**Externality** — A cost or benefit of a treatment falling on people not party to it, such as herd immunity from vaccination. See [Externality](https://en.wikipedia.org/wiki/Externality). See Chapter 6.1.
 
 **Enterprise architecture** — A disciplined view of an organisation's business, data, application and technology layers to guide change. See [Enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture). See Chapter 4.0.
 
@@ -116,7 +122,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## G
 
-**GDPR** — The [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (and UK GDPR): the legal framework for processing personal data. See Chapter 1.6.
+**GDPR** — The [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (and UK GDPR): the legal framework for processing personal data. See Chapter 1.7.
 
 **Goodhart's law** — "When a measure becomes a target, it ceases to be a good measure." See [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law). See Chapter 10.0.
 
@@ -126,17 +132,21 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 ## H
 
+**Hazard ratio (HR)** — The ratio of the event rate in a treatment group to a control group over time, from survival analysis; often misread because it averages over follow-up and does not translate simply into absolute risk or life-years. See [Hazard ratio](https://en.wikipedia.org/wiki/Hazard_ratio). See Chapter 1.4.
+
 **Health literacy** — People's ability to find, understand and use health information and services; low health literacy widens inequalities. See [Health literacy](https://en.wikipedia.org/wiki/Health_literacy). See Chapter 3.1.
 
 **Health Research Authority (HRA)** — The body overseeing research ethics and governance for health and social care research in the UK. See Chapter 8.6.
 
-**Hazard log** — The living register of clinical hazards, their risk ratings and controls that sits at the heart of a clinical safety case. See Chapter 1.5.
+**Hazard log** — The living register of clinical hazards, their risk ratings and controls that sits at the heart of a clinical safety case. See Chapter 1.6.
 
 **Health economics** — The study of how to allocate scarce resources to maximise health, using tools such as cost-effectiveness analysis and the QALY. See [Health economics](https://en.wikipedia.org/wiki/Health_economics). See Chapter 6.1.
 
-**Health inequalities** — Unfair and avoidable differences in health across the population; digital exclusion can widen them. See [Health equity](https://en.wikipedia.org/wiki/Health_equity). See Chapter 1.8.
+**Health inequalities** — Unfair and avoidable differences in health across the population; digital exclusion can widen them. See [Health equity](https://en.wikipedia.org/wiki/Health_equity). See Chapter 1.9.
 
 ## I
+
+**Information asymmetry** — The imbalance where clinicians hold far more information about treatment than patients, one reason the healthcare market cannot be left to itself. See [Information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry). See Chapter 6.1.
 
 **Identity & access management (IAM)** — Controlling who can access what: authentication, authorisation, role-based access control and least privilege. See Chapter 4.1.
 
@@ -146,7 +156,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Incident management** — The service-management practice of restoring normal service as quickly as possible after disruption, with major-incident and business-continuity procedures for the most serious. See [Incident management](https://en.wikipedia.org/wiki/Incident_management). See Chapter 3.8.
 
-**Information governance** — The rules and accountability for handling information legally, securely and ethically. See Chapter 1.6.
+**Information governance** — The rules and accountability for handling information legally, securely and ethically. See Chapter 1.7.
 
 **Integrated Care System (ICS)** — A partnership of NHS and local-government organisations planning and delivering joined-up health and care in an area of England. See [Integrated care system](https://en.wikipedia.org/wiki/Integrated_care_system). See Chapters 5.2, 9.0.
 
@@ -184,7 +194,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Maturity model** — A staged description of capability from initial to optimising, used for self-assessment. See [Capability Maturity Model](https://en.wikipedia.org/wiki/Capability_Maturity_Model). Used in every chapter.
 
-**MHRA** — The Medicines and Healthcare products Regulatory Agency, which regulates medical devices including software and AI as a medical device. See [Medicines and Healthcare products Regulatory Agency](https://en.wikipedia.org/wiki/Medicines_and_Healthcare_products_Regulatory_Agency). See Chapters 1.5, 8.4.
+**MHRA** — The Medicines and Healthcare products Regulatory Agency, which regulates medical devices including software and AI as a medical device. See [Medicines and Healthcare products Regulatory Agency](https://en.wikipedia.org/wiki/Medicines_and_Healthcare_products_Regulatory_Agency). See Chapters 1.6, 8.4.
 
 **Minimum viable product (MVP)** — The smallest version of a product that delivers and tests value. See [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product). See Chapters 5.0, 8.0.
 
@@ -250,7 +260,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Retrospective** — A regular team review that turns what happened into concrete improvements to how the team works. See Chapter 7.1.
 
-**Regulation & compliance** — The terrain of statutory regulators, mandatory standards and voluntary assurance that digital health must satisfy. See Chapter 1.4.
+**Regulation & compliance** — The terrain of statutory regulators, mandatory standards and voluntary assurance that digital health must satisfy. See Chapter 1.5.
 
 **Role-based access control (RBAC)** — Granting access by job role rather than to individuals, supporting least privilege. See Chapter 4.1.
 
@@ -264,13 +274,13 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **Randomised controlled trial (RCT)** — An experiment that randomly allocates participants to test an intervention's effect. See [Randomized controlled trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial). See Chapter 1.3.
 
-**Records management** — Governing the creation, retention and disposal of records, including statutory retention of health records. See [Records management](https://en.wikipedia.org/wiki/Records_management). See Chapters 1.6, 10.3.
+**Records management** — Governing the creation, retention and disposal of records, including statutory retention of health records. See [Records management](https://en.wikipedia.org/wiki/Records_management). See Chapters 1.7, 10.3.
 
 **RICE** — A prioritisation score: Reach × Impact × Confidence ÷ Effort. See Chapter 2.2.
 
 ## S
 
-**Safeguarding** — Protecting children and adults at risk from abuse, neglect and harm, including risks created by digital services. See [Safeguarding](https://en.wikipedia.org/wiki/Safeguarding). See Chapter 1.9.
+**Safeguarding** — Protecting children and adults at risk from abuse, neglect and harm, including risks created by digital services. See [Safeguarding](https://en.wikipedia.org/wiki/Safeguarding). See Chapter 1.10.
 
 **Secure Data Environment (SDE)** — A trusted platform where approved analysts work with data without extracting it; also called a Trusted Research Environment. See Chapter 4.4.
 
@@ -280,7 +290,7 @@ Definitions of the key terms used throughout *Ways of Working for Digital Health
 
 **SAFe** — The Scaled Agile Framework for coordinating many agile teams. See [Scaled agile framework](https://en.wikipedia.org/wiki/Scaled_agile_framework). See Chapters 2.2, 5.2.
 
-**SaMD (Software as a Medical Device)** — Software intended for a medical purpose that is itself a regulated medical device. See Chapters 1.5, 8.4.
+**SaMD (Software as a Medical Device)** — Software intended for a medical purpose that is itself a regulated medical device. See Chapters 1.6, 8.4.
 
 **Scrum** — An agile framework using fixed-length sprints and defined roles. See [Scrum (software development)](https://en.wikipedia.org/wiki/Scrum_(software_development)). See Chapter 3.5.
 
