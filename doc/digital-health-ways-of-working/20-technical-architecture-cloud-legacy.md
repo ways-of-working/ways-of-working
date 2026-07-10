@@ -1,0 +1,141 @@
+# Chapter 20 — Technical Architecture, Cloud & Legacy
+
+**In health and care, technical architecture is a clinical-safety, security, and public-money decision made years in advance: the platforms you stand up and the legacy you leave in place quietly determine whether care can be safe, joined-up, and affordable long after the people who chose them have moved on.**
+
+## Why this matters in health and care
+
+Architecture is the set of long-lived structural choices beneath your digital services: what runs where, how components connect, what you build versus buy, and what you keep alive from the past. These choices are rarely visible to patients or clinicians, and rarely exciting to boards. Yet they shape everything that sits on top. A well-architected estate lets you add a new service quickly, share data safely, and recover fast when something breaks. A poorly-architected one makes every change slow, every integration fragile, and every incident worse.
+
+In health and care the stakes are high because the systems are consequential. When an ageing patient administration system falls over, ambulances divert and clinics cancel. When an unsupported operating system is exploited, confidential records are exposed and services stop — as the NHS learned in 2017 when the WannaCry ransomware attack spread through machines running software that could no longer be patched. That disruption was not a clever, targeted assault; it was the predictable consequence of accumulated technical debt in critical systems. Architecture decisions are therefore safety decisions, whether or not anyone frames them that way.
+
+They are also equity and trust decisions. Legacy systems that cannot share data leave the most complex patients — those touching many services — with the most fragmented records. Closed platforms that lock you into a single supplier drain money that could fund care. And the public reasonably expects the NHS to run on modern, secure, well-maintained technology; the gap between that expectation and the actual estate is itself a risk to trust.
+
+Finally, this is where a great deal of public money is committed for a very long time. The most expensive part of a system is rarely its purchase; it is the decade of hosting, licensing, maintenance, and eventual replacement that follows. Leaders who treat architecture as "something the technical team handles" are delegating some of the largest and longest-lasting financial commitments the organisation makes. This chapter is written so you can hold those decisions to account without being an engineer.
+
+## Core concepts
+
+[Enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) is the discipline of aligning an organisation's business processes, information, applications, and technology so they support strategy coherently rather than growing by accident. It takes the whole-organisation view: which capabilities you need, which systems provide them, and where the gaps and duplications lie. [Solution architecture](https://en.wikipedia.org/wiki/Solution_architecture) is the narrower, project-level discipline of designing how a specific service will be built and fit into the wider estate. Both sit within the broader idea of [systems architecture](https://en.wikipedia.org/wiki/Systems_architecture) — the structural model of how components, interfaces, and behaviours combine into a working whole. Leaders do not need to practise these disciplines, but they should insist they exist, because their absence is how estates become unmanageable.
+
+Architecture is guided by architecture principles: a short, agreed set of statements — such as "reuse before buy, buy before build" or "build to open standards" — that make consistent decisions possible without every choice being escalated. Principles are enforced, lightly, by a design authority: a small group that reviews significant technical decisions. The healthy version of a design authority enables rather than blocks; it exists to prevent avoidable harm and duplication, not to slow teams down or gatekeep for its own sake.
+
+[Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the delivery of computing — servers, storage, databases, networking — as an on-demand service over the internet, rather than from hardware you own in your own building. A public cloud is run by a third-party provider and shared among many customers; a private cloud is dedicated to one organisation; a hybrid cloud combines the two, often keeping some workloads on existing infrastructure while moving others out. Many governments, including the UK's, have adopted a "cloud-first" policy, meaning teams should consider public cloud before other options and justify not using it. At the application layer, [software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service) delivers a finished application over the web that the supplier hosts and maintains, so you configure rather than run it. Infrastructure and hosting — where and how your systems physically run — sit beneath all of this, and increasingly carry a carbon cost that belongs in the decision (see Chapter 41 — Sustainability & Net Zero).
+
+A [legacy system](https://en.wikipedia.org/wiki/Legacy_system) is an ageing but still-relied-upon system that is hard to change, often running unsupported software for which security patches are no longer issued. Legacy accumulates as [technical debt](https://en.wikipedia.org/wiki/Technical_debt) — the future cost of expedient choices made in the past. A little debt is normal and even sensible; unmanaged debt at scale becomes a safety and security liability, because the systems most people depend on become the systems no one dares to touch. Managing this is the job of [application portfolio management](https://en.wikipedia.org/wiki/Application_portfolio_management): keeping a clear inventory of every application, its cost, condition, and business value, so you can rationalise the estate — retiring, replacing, or consolidating systems — and decommission safely rather than leaving the old thing quietly running.
+
+Modern estates are held together by [application programming interfaces (APIs)](https://en.wikipedia.org/wiki/Application_programming_interface): defined interfaces through which one system offers a capability to another. Well-designed APIs let you assemble platforms — reusable services that many teams build on — while keeping components loosely coupled and replaceable. A useful discipline here is the "thinnest viable platform": build only the shared capability that genuinely reduces others' work, and no more. Underpinning secure design is [secure by design](https://en.wikipedia.org/wiki/Secure_by_design), the principle that security is built in from the start rather than bolted on afterwards. And the financial frame for all of it is [total cost of ownership (TCO)](https://en.wikipedia.org/wiki/Total_cost_of_ownership): the full lifetime cost of a system, not its purchase price — the lens through which the build/buy/configure choice, and the risk of [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), should be judged.
+
+## Best practices
+
+1. **Agree a short set of architecture principles and use them to decide.** Write down a handful of clear, memorable principles — reuse before buy before build, build to open standards, cloud where it makes sense, secure by design, design for the whole care pathway — and let teams make most decisions themselves by applying them. Principles work only if they are genuinely used to say yes and no, and only if there are few enough to remember. This connects directly to Chapter 2 — The Operating Model and Chapter 3 — Digital Strategy & Roadmapping, which set the direction the principles serve.
+
+2. **Run a design authority that enables rather than blocks.** Establish a small, senior, cross-disciplinary group to review significant technical decisions — those that are expensive, hard to reverse, affect many services, or carry safety and security risk. Give it a fast, lightweight route so routine choices are not dragged through it, and hold it to a service standard: it should help teams find a good answer, not simply refuse. A design authority that becomes a bottleneck will be routed around, and shadow architecture is worse than none.
+
+3. **Adopt cloud deliberately, workload by workload, not as a slogan.** Treat "cloud-first" as a default to be reasoned about, not an instruction to move everything. Assess each workload for suitability, data residency, resilience, cost at scale, and the effort to migrate, and be honest that lift-and-shift of an unchanged legacy application often just relocates the problem at higher cost. Weigh the carbon dimension explicitly, since where and how you host affects emissions (see Chapter 41 — Sustainability & Net Zero), and design for portability so a future move between providers remains possible.
+
+4. **Maintain a live application portfolio and manage technical debt as a named risk.** Keep an accurate inventory of every application, its business owner, cost, supportability, and the risk it carries, and review it regularly. Put technical debt and unsupported software on the corporate risk register with the same seriousness as clinical or financial risk, because that is what it is. What you cannot see, you cannot fund, prioritise, or safely retire, and estates that are never inventoried are exactly the ones that fail without warning.
+
+5. **Rationalise the estate and decommission safely.** Actively retire duplicated, obsolete, and end-of-life systems rather than letting them linger "just in case", because every live system is an attack surface, a licence cost, and a maintenance burden. Decommissioning is a project in its own right: migrate or archive the data under clear retention rules, confirm nothing still depends on the system, communicate with users, and verify before you switch off. Done well, rationalisation frees money and reduces risk; done carelessly, it destroys records or breaks a dependency no one documented.
+
+6. **Prefer open standards, APIs, and loosely coupled components.** Design so capabilities are exposed through documented, versioned APIs, so that one component can be replaced without rebuilding everything around it. This is the architectural foundation for the interoperability discussed in Chapter 21 — Interoperability & Data Standards, and it is your main defence against lock-in. It costs a little more up front than a direct, hard-wired connection, and repays that many times over the first time you need to change a supplier or add a service.
+
+7. **Build the thinnest viable platform, and no more.** When you create a shared platform for others to build on, resist the urge to make it comprehensive from day one. Provide the smallest reusable capability that genuinely removes work for teams, prove it is used, and grow it in response to real demand. Over-built platforms become their own legacy — expensive, rigid, and resented — while a thin, well-run platform earns adoption and evolves with need.
+
+8. **Make security architecture and secure-by-design non-negotiable.** Bring security thinking into design from the first sketch, not as a pre-launch gate: minimise the attack surface, apply least privilege, segment networks, and assume components will be probed. In health and care this is inseparable from clinical safety and information governance (Chapter 5 — Clinical Safety & Risk Management; Chapter 6 — Information Governance, Data Protection & Cyber Security), because a breach is both a data harm and, when it stops systems, a patient-safety event. Unsupported, unpatchable software is a security decision you are making by default — so make it deliberately, with mitigations, or not at all.
+
+9. **Decide build, buy, or configure on total cost of ownership, not sticker price.** For each capability, compare building bespoke, buying a product, and configuring an existing platform on their full lifetime cost — hosting, licensing, integration, support, upgrades, and eventual exit — not the initial price. Favour buying or configuring for commodity needs and reserve building for genuine differentiation, and weigh the lock-in each option creates. Work this through with commercial colleagues (Chapter 30 — Procurement & Commercial), because the cheapest time to secure open interfaces and exit rights is before you sign.
+
+## Questions to discuss with your team
+
+1. **Which of our critical systems are unsupported or unpatchable today, and what is our actual exposure if one is attacked or fails?** Start from the systems clinical and operational services genuinely cannot function without, and establish concretely which run software that no longer receives security updates or vendor support. Ask what would happen — to patients, to staff, to data — if each were hit by ransomware or simply stopped, and how long recovery would take. Distinguish systems you have consciously accepted risk on, with mitigations in place, from those whose fragility no one has assessed. Consider whether this exposure is visible on the corporate risk register or buried in a spreadsheet no board has seen. Reflect on WannaCry: the harm came not from sophistication but from known, unaddressed debt in critical systems. If you cannot answer this with evidence, that gap is itself your most urgent finding, because you cannot fund a risk you have not named.
+
+2. **Where are we locked in, and what would it truly cost us to leave our biggest platform?** Many organisations discover the real price of a closed system only when they try to change it. Work through what it would actually take to move off your largest clinical or corporate platform: whether you can extract your data in a usable, standard form, what proprietary interfaces would have to be unpicked, and what your contract says about ownership and exit. Consider whether "cloud" has quietly become lock-in of a different kind, with data and tooling so entangled in one provider that leaving is impractical. Weigh this against the openness of alternatives and any national platforms you could reuse instead. This is not an argument for churning suppliers; it is about understanding your leverage before you next negotiate, and not letting one vendor's roadmap silently become your only option.
+
+3. **Are we investing enough in maintaining and rationalising what we already have, or only in the new and visible?** New systems attract funding and attention; the unglamorous work of patching, upgrading, consolidating, and safely retiring rarely does, which is exactly how debt accumulates. Ask what proportion of your digital budget actually goes to keeping the existing estate safe and current versus building new things, and whether anyone owns that balance deliberately. Discuss whether decommissioning is ever properly resourced, or whether old systems simply linger because switching them off is nobody's job. Consider the duplicated applications doing the same thing across the organisation, and what it would take to consolidate them. Think about who, at board level, is accountable for the health of the estate as a whole rather than for individual projects. An organisation that only funds the new is borrowing against its own future safety, and the repayment always comes due at the worst possible moment.
+
+## In practice: a health & care example
+
+An acute hospital trust's technical estate has grown organically for two decades. At its heart sits a patient administration system running on an operating system the vendor stopped supporting eighteen months ago; around it are more than two hundred applications, many bought departmentally, several doing overlapping jobs, and no one holds a complete list. A near-miss — a ransomware attempt blocked more by luck than design — prompts the board to ask a question it has never asked before: what, exactly, are we running, and how exposed are we?
+
+The chief digital information officer resists the instinct to launch a single, heroic "replace everything" programme, and does the boring work first. The trust builds a live application portfolio: every system, its business owner, its supportability, its cost, and its risk. The picture is sobering — a fifth of applications are on unsupported software, and a dozen duplicate capabilities already available elsewhere — but for the first time it is visible, and the worst exposures go straight onto the corporate risk register where the board can see them.
+
+From that inventory the trust makes deliberate choices guided by a handful of agreed architecture principles. The unsupported patient administration system is prioritised for replacement, procured as a configurable product with contractual open-API and data-extraction rights so the trust is not locked in again. Suitable workloads move to public cloud, assessed one at a time rather than by slogan, with carbon and portability weighed alongside cost. A small design authority reviews the significant decisions and clears the routine ones quickly. Twelve overlapping departmental applications are consolidated to three, and the retired systems are decommissioned properly — data migrated under clear retention rules, dependencies checked, users told, and only then switched off.
+
+None of this makes a headline. But eighteen months on, the trust knows what it runs, its most dangerous debt is being paid down on a funded plan rather than hoped away, and a new shared care record integration is delivered in weeks because the replacement systems expose open APIs. The near-miss became the moment the trust started managing its architecture instead of being managed by it.
+
+## Three sector lenses
+
+### Startup
+
+A digital health startup has the luxury of little legacy and should protect it fiercely. Build cloud-native from the outset, expose open APIs, and treat secure-by-design as a core feature rather than a later cost, because cautious NHS buyers will scrutinise your security architecture and data-extraction terms closely. Keep your own thinnest viable platform genuinely thin, resisting the temptation to over-engineer for scale you do not yet have. Your fastest route to accumulating crippling technical debt is shipping expedient code under investor pressure and never paying it back, so make deliberate, visible choices about what debt you take on. Paradoxically, designing so a customer could extract their data and leave is what earns the trust that keeps them.
+
+### Enterprise
+
+A large trust or supplier carries decades of accumulated systems and cannot simply start again. The realistic strategy is disciplined evolution: maintain a live portfolio, put open, API-based layers in front of what must stay, and pay down the most dangerous debt on a funded, prioritised plan rather than in occasional panics. Run a design authority that is respected because it enables delivery, not feared because it blocks it, and make technical debt a standing board-level risk with a named owner. Guard against lock-in at every renewal, and treat decommissioning as real, resourced work rather than an afterthought. This is the same reuse-and-open-interface discipline that governs core operational platforms in Chapter 27 — Enterprise Resource Planning (ERP).
+
+### Government
+
+National and regional bodies set the conditions the whole sector operates in, and their architecture choices ripple outward. The most valuable things government can do are mandate open standards, provide reusable national platforms so local organisations build once, and set cloud, security, and sustainability expectations that raise the floor everywhere. Crucially, government must fund the unglamorous national work — legacy remediation, terminology maintenance, decommissioning support — that no single organisation will finance alone but that everyone depends on. A firmly-enforced, good-enough standard reused widely beats a theoretically superior one implemented inconsistently. This stewardship role connects to Chapter 44 — Working with Local & National Governments and to how partners collaborate in Chapter 43 — Collaborating with Partner Organisations.
+
+## Common failure modes
+
+- **Invisible estate.** Running hundreds of applications with no accurate inventory, so exposure is unknown, duplication is unnoticed, and the first sign of fragility is an outage or a breach.
+- **Debt hidden from the board.** Keeping unsupported software and technical debt as a technical footnote rather than a named corporate risk, so it is never funded until it fails.
+- **Cloud as slogan.** Lifting and shifting unchanged legacy into public cloud on principle, relocating the problem at higher cost, or entangling data and tooling so deeply in one provider that it becomes a new lock-in.
+- **Design authority as bottleneck.** Letting architecture governance become a slow gate that teams route around, producing undocumented shadow architecture that is worse than none.
+- **Build when you should configure.** Choosing bespoke builds for commodity needs, on sticker price rather than total cost of ownership, and inheriting a decade of maintenance you did not budget for.
+- **Never decommissioning.** Leaving obsolete systems running "just in case", each one an attack surface, a licence cost, and a maintenance drain no one owns.
+- **Security bolted on.** Treating security as a pre-launch gate rather than a design input, so the attack surface is set long before anyone assesses it.
+- **Lock-in by default.** Signing platforms with no open interfaces or data-extraction rights, and discovering the cost of the trap only when you try to leave.
+
+## Maturity model
+
+| Dimension | Initial | Developing | Defined | Optimising |
+|---|---|---|---|---|
+| Estate visibility | No reliable inventory; unknown exposure | Partial lists held in silos | Live portfolio with owner, cost, risk per application | Continuously maintained portfolio driving investment decisions |
+| Technical debt & legacy | Unmanaged; unsupported systems unnoticed | Known informally but off the risk register | On the corporate risk register with a funded remediation plan | Debt actively paid down; end-of-life planned before it arrives |
+| Cloud & hosting | Ad hoc, on-premise by default | Some cloud, chosen case by case | Deliberate workload-by-workload strategy, carbon weighed | Portable, optimised, sustainability and cost actively managed |
+| Architecture governance | None; every project decides alone | Informal review by individuals | Design authority with clear principles and fast routes | Enabling governance; principles applied by teams themselves |
+| Interfaces & lock-in | Proprietary, hard-wired, no exit rights | Some APIs; standards weakly enforced | Open APIs and data-extraction rights required | Loosely coupled, standards-based; suppliers genuinely substitutable |
+
+## Checklist
+
+- [ ] A live application portfolio records every system's owner, cost, supportability, and risk, and is reviewed regularly.
+- [ ] Unsupported and unpatchable critical systems are identified and sit on the corporate risk register, not in a technical spreadsheet.
+- [ ] A short, agreed set of architecture principles is genuinely used to make and justify decisions.
+- [ ] A design authority reviews significant, hard-to-reverse decisions and clears routine ones quickly, enabling rather than blocking.
+- [ ] Cloud adoption is assessed workload by workload, weighing residency, resilience, cost, portability, and carbon.
+- [ ] Technical debt has a named owner and a funded remediation plan, not just occasional firefighting.
+- [ ] Duplicated and obsolete systems are rationalised, and decommissioning is resourced with data migration, retention, and dependency checks.
+- [ ] New capabilities expose open, versioned APIs so components can be replaced without rebuilding around them.
+- [ ] Security is designed in from the start — minimal attack surface, least privilege, segmentation — not bolted on before launch.
+- [ ] Build/buy/configure decisions are made on total cost of ownership and lock-in, with exit and data-extraction rights secured before signing.
+
+## Key sources
+
+- NHS England — cloud strategy, technology standards, and the Data Security and Protection Toolkit.
+- National Cyber Security Centre (NCSC) — secure design principles and cloud security guidance.
+- UK Government (GDS/CDDO) — the Technology Code of Practice and cloud-first policy.
+- National Audit Office — reports on NHS legacy systems, the WannaCry attack, and IT-enabled programmes.
+- The Open Group — TOGAF, the enterprise architecture framework.
+- Government Digital Service — the "thinnest viable platform" concept in the GOV.UK service manual and design community.
+
+## References
+
+1. Enterprise architecture — Wikipedia — https://en.wikipedia.org/wiki/Enterprise_architecture
+2. Solution architecture — Wikipedia — https://en.wikipedia.org/wiki/Solution_architecture
+3. Systems architecture — Wikipedia — https://en.wikipedia.org/wiki/Systems_architecture
+4. Cloud computing — Wikipedia — https://en.wikipedia.org/wiki/Cloud_computing
+5. Software as a service — Wikipedia — https://en.wikipedia.org/wiki/Software_as_a_service
+6. Legacy system — Wikipedia — https://en.wikipedia.org/wiki/Legacy_system
+7. Technical debt — Wikipedia — https://en.wikipedia.org/wiki/Technical_debt
+8. Application portfolio management — Wikipedia — https://en.wikipedia.org/wiki/Application_portfolio_management
+9. Application programming interface — Wikipedia — https://en.wikipedia.org/wiki/Application_programming_interface
+10. Total cost of ownership — Wikipedia — https://en.wikipedia.org/wiki/Total_cost_of_ownership
+11. Secure by design — Wikipedia — https://en.wikipedia.org/wiki/Secure_by_design
+12. Vendor lock-in — Wikipedia — https://en.wikipedia.org/wiki/Vendor_lock-in
+13. Cloud strategy — NHS England — https://www.england.nhs.uk/long-read/cloud-centre-of-excellence/
+14. Secure design principles — National Cyber Security Centre — https://www.ncsc.gov.uk/collection/cyber-security-design-principles
+15. Technology Code of Practice — UK Government (CDDO) — https://www.gov.uk/guidance/the-technology-code-of-practice
+16. Investigation: WannaCry cyber attack and the NHS — National Audit Office — https://www.nao.org.uk/reports/investigation-wannacry-cyber-attack-and-the-nhs/
+17. TOGAF Standard — The Open Group — https://www.opengroup.org/togaf
+18. Service Manual: cloud and platforms — Government Digital Service — https://www.gov.uk/service-manual

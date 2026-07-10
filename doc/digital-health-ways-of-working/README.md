@@ -10,63 +10,77 @@ The premise is simple: **in health and care, *how* you work is a clinical-safety
 
 ## How to use this book
 
-The chapters are ordered but self-contained; each ends with a maturity model and a checklist so you can assess where you are and decide what to do next. Read Part I first to fix the vocabulary and the non-negotiables — safety, data, and inclusion — then jump to whichever part answers your current problem.
+The chapters are ordered but self-contained; each ends with a maturity model and a checklist so you can assess where you are and decide what to do next. Read Part I first to fix the vocabulary and the non-negotiables — safety, data, ethics, and inclusion — then jump to whichever part answers your current problem.
 
 ## Table of contents
 
 ### Part I — Foundations
 - [Chapter 1 — Ways of Working in Digital Health & Care](01-introduction.md)
 - [Chapter 2 — The Operating Model](02-operating-model.md)
-- [Chapter 3 — Evidence-Driven Decisions](03-evidence-driven-decisions.md)
-- [Chapter 4 — Clinical Safety & Risk Management](04-clinical-safety.md)
-- [Chapter 5 — Information Governance, Data Protection & Cyber Security](05-information-governance-cyber.md)
-- [Chapter 6 — Digital Inclusion & Accessibility](06-digital-inclusion-accessibility.md)
+- [Chapter 3 — Digital Strategy & Roadmapping](03-digital-strategy-roadmapping.md)
+- [Chapter 4 — Evidence-Driven Decisions](04-evidence-driven-decisions.md)
+- [Chapter 5 — Clinical Safety & Risk Management](05-clinical-safety.md)
+- [Chapter 6 — Information Governance, Data Protection & Cyber Security](06-information-governance-cyber.md)
+- [Chapter 7 — Data Ethics, Consent & Public Trust](07-data-ethics-consent-trust.md)
+- [Chapter 8 — Digital Inclusion & Accessibility](08-digital-inclusion-accessibility.md)
+- [Chapter 9 — Safeguarding in Digital Services](09-safeguarding-digital-services.md)
 
 ### Part II — Managing the Flow of Work
-- [Chapter 7 — Work Intake](07-work-intake.md)
-- [Chapter 8 — Work Triage](08-work-triage.md)
-- [Chapter 9 — Work Prioritisation](09-work-prioritisation.md)
+- [Chapter 10 — Work Intake](10-work-intake.md)
+- [Chapter 11 — Work Triage](11-work-triage.md)
+- [Chapter 12 — Work Prioritisation](12-work-prioritisation.md)
 
 ### Part III — The Delivery Lifecycle
-- [Chapter 10 — User Research & Service Design](10-user-research-service-design.md)
-- [Chapter 11 — Discovery Phases](11-discovery-phases.md)
-- [Chapter 12 — Delivery Lifecycles](12-delivery-lifecycles.md)
-- [Chapter 13 — Interoperability & Data Standards](13-interoperability-data-standards.md)
-- [Chapter 14 — Service Management & Live Operations](14-service-management-operations.md)
+- [Chapter 13 — User Research & Service Design](13-user-research-service-design.md)
+- [Chapter 14 — Patient & Citizen-Facing Digital Services](14-patient-citizen-facing-services.md)
+- [Chapter 15 — Discovery Phases](15-discovery-phases.md)
+- [Chapter 16 — Delivery Lifecycles](16-delivery-lifecycles.md)
+- [Chapter 17 — Testing & Quality Assurance](17-testing-quality-assurance.md)
+- [Chapter 18 — Service Management & Live Operations](18-service-management-operations.md)
+- [Chapter 19 — Business Continuity & Disaster Recovery](19-business-continuity-disaster-recovery.md)
 
-### Part IV — Modes of Delivery
-- [Chapter 15 — Product-Led Work](15-product-led-work.md)
-- [Chapter 16 — Project-Led Work](16-project-led-work.md)
-- [Chapter 17 — Programme-Led Work](17-programme-led-work.md)
-- [Chapter 18 — Enterprise Project Portfolio Management (EPPM)](18-eppm.md)
-- [Chapter 19 — Enterprise Resource Planning (ERP)](19-erp.md)
+### Part IV — Technology, Architecture & Data
+- [Chapter 20 — Technical Architecture, Cloud & Legacy](20-technical-architecture-cloud-legacy.md)
+- [Chapter 21 — Interoperability & Data Standards](21-interoperability-data-standards.md)
+- [Chapter 22 — Data, Analytics & Population Health Management](22-data-analytics-population-health.md)
 
-### Part V — Money, Value & Governance
-- [Chapter 20 — Financial Management & Business Cases](20-financial-management-business-cases.md)
-- [Chapter 21 — Health Economics](21-health-economics.md)
-- [Chapter 22 — Procurement & Commercial](22-procurement-commercial.md)
-- [Chapter 23 — Governance & Assurance](23-governance-assurance.md)
+### Part V — Modes of Delivery
+- [Chapter 23 — Product-Led Work](23-product-led-work.md)
+- [Chapter 24 — Project-Led Work](24-project-led-work.md)
+- [Chapter 25 — Programme-Led Work](25-programme-led-work.md)
+- [Chapter 26 — Enterprise Project Portfolio Management (EPPM)](26-eppm.md)
+- [Chapter 27 — Enterprise Resource Planning (ERP)](27-erp.md)
 
-### Part VI — People, Teams & Workforce
-- [Chapter 24 — Team Structures, Roles & Responsibilities](24-team-structures-roles.md)
-- [Chapter 25 — Workforce Planning](25-workforce-planning.md)
-- [Chapter 26 — Workforce Strategy](26-workforce-strategy.md)
-- [Chapter 27 — People & Organisational Development](27-people-org-development.md)
+### Part VI — Money, Value & Governance
+- [Chapter 28 — Financial Management & Business Cases](28-financial-management-business-cases.md)
+- [Chapter 29 — Health Economics](29-health-economics.md)
+- [Chapter 30 — Procurement & Commercial](30-procurement-commercial.md)
+- [Chapter 31 — Governance & Assurance](31-governance-assurance.md)
 
-### Part VII — Change & Innovation
-- [Chapter 28 — Phasing in Innovation](28-phasing-innovation.md)
-- [Chapter 29 — Change Management](29-change-management.md)
-- [Chapter 30 — AI & Emerging Technology Governance](30-ai-emerging-technology.md)
-- [Chapter 31 — Sustainability & Net Zero](31-sustainability-net-zero.md)
+### Part VII — People, Teams & Workforce
+- [Chapter 32 — Team Structures, Roles & Responsibilities](32-team-structures-roles.md)
+- [Chapter 33 — Workforce Planning](33-workforce-planning.md)
+- [Chapter 34 — Workforce Strategy](34-workforce-strategy.md)
+- [Chapter 35 — People & Organisational Development](35-people-org-development.md)
+- [Chapter 36 — Workforce Equality, Diversity & Inclusion](36-workforce-edi.md)
 
-### Part VIII — Partnerships & Government
-- [Chapter 32 — Collaborating with Partner Organisations](32-collaborating-partner-organizations.md)
-- [Chapter 33 — Working with Local & National Governments](33-working-with-governments.md)
+### Part VIII — Change & Innovation
+- [Chapter 37 — Phasing in Innovation](37-phasing-innovation.md)
+- [Chapter 38 — Change Management](38-change-management.md)
+- [Chapter 39 — Communications & Engagement](39-communications-engagement.md)
+- [Chapter 40 — AI & Emerging Technology Governance](40-ai-emerging-technology.md)
+- [Chapter 41 — Sustainability & Net Zero](41-sustainability-net-zero.md)
+- [Chapter 42 — Research & Real-World Evaluation](42-research-real-world-evaluation.md)
 
-### Part IX — Measurement, Knowledge & Leadership
-- [Chapter 34 — OKRs & KPIs](34-okrs-kpis.md)
-- [Chapter 35 — Knowledge Management & Documentation](35-knowledge-management.md)
-- [Chapter 36 — Visibility for the CEO & Senior Leaders](36-leadership-visibility.md)
+### Part IX — Partnerships & Government
+- [Chapter 43 — Collaborating with Partner Organisations](43-collaborating-partner-organizations.md)
+- [Chapter 44 — Working with Local & National Governments](44-working-with-governments.md)
+
+### Part X — Measurement, Improvement, Knowledge & Leadership
+- [Chapter 45 — OKRs & KPIs](45-okrs-kpis.md)
+- [Chapter 46 — Quality Improvement & Improvement Science](46-quality-improvement.md)
+- [Chapter 47 — Knowledge Management & Documentation](47-knowledge-management.md)
+- [Chapter 48 — Visibility for the CEO & Senior Leaders](48-leadership-visibility.md)
 
 ### Front matter
 - [Preface](00-preface.md)
@@ -85,4 +99,4 @@ Each chapter follows the same structure so you can navigate and self-assess cons
 
 ---
 
-*This handbook cites public, verifiable sources throughout: the NHS Digital Service Manual and Service Standard, the GOV.UK Service Manual, NICE's Evidence Standards Framework for Digital Health Technologies, the MHRA and DTAC, the clinical risk-management standards DCB0129/0160, the Caldicott Principles and UK data-protection law, HM Treasury's Green Book and Five Case Model, Team Topologies, MSP / PRINCE2 / MoP, Kotter and Prosci ADKAR, and the health-and-care workforce strategy evidence base (including HEIW and Social Care Wales, *A Healthier Wales: Our Workforce Strategy for Health and Social Care*).*
+*This handbook cites public, verifiable sources throughout: the NHS Digital Service Manual and Service Standard, the GOV.UK Service Manual, NICE's Evidence Standards Framework for Digital Health Technologies, the MHRA and DTAC, the clinical risk-management standards DCB0129/0160, the Caldicott Principles and UK data-protection law, HM Treasury's Green Book and Five Case Model, Team Topologies, MSP / PRINCE2 / MoP, Kotter and Prosci ADKAR, the Model for Improvement, and the health-and-care workforce strategy evidence base (including HEIW and Social Care Wales, *A Healthier Wales: Our Workforce Strategy for Health and Social Care*).*

@@ -2,7 +2,7 @@
 
 **Status:** Authoritative source of truth. This document governs the book. Where a chapter, the README, the style guide, or any generated content disagrees with this spec, **this spec wins** — fix the artifact, or change the spec deliberately and then bring the artifacts into line.
 
-**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 35 files first.
+**Purpose:** Enough here for any author or agent to (a) understand what the book is, (b) build or regenerate any single chapter to a consistent standard, and (c) verify the result against a checklist — without reading the other 47 files first.
 
 ---
 
@@ -28,7 +28,7 @@ Chief executives and senior leaders; directors of digital and transformation; pr
 | `README.md` | Reader-facing front door + table of contents. Must list every chapter with correct number, title, and filename. |
 | `STYLE_GUIDE.md` | The prose/formatting contract every chapter author follows. Subordinate to this spec. |
 | `00-preface.md` | Front matter. |
-| `NN-slug.md` | The 36 chapters (see manifest, §4). |
+| `NN-slug.md` | The 48 chapters (see manifest, §4). |
 | `GLOSSARY.md` | A–Z definitions of key terms, Wikipedia-linked, each pointing to its home chapter. |
 | `INDEX.md` | A–Z concepts/frameworks → chapter numbers (numbers are **chapter numbers, not pages**). |
 | `_sources/` | Raw source material used for grounding (e.g. workforce-strategy text). Not shipped as chapters. |
@@ -59,61 +59,75 @@ Every chapter uses these headings, in this order. This is the contract the matur
 
 ## 4. Chapter manifest
 
-36 chapters in 9 parts, plus front and reference matter. Numbers, titles, and filenames are canonical — `README.md` must match exactly.
+48 chapters in 10 parts, plus front and reference matter. Numbers, titles, and filenames are canonical — `README.md` must match exactly.
 
 **Part I — Foundations**
 1. Ways of Working in Digital Health & Care — `01-introduction.md`
 2. The Operating Model — `02-operating-model.md`
-3. Evidence-Driven Decisions — `03-evidence-driven-decisions.md`
-4. Clinical Safety & Risk Management — `04-clinical-safety.md`
-5. Information Governance, Data Protection & Cyber Security — `05-information-governance-cyber.md`
-6. Digital Inclusion & Accessibility — `06-digital-inclusion-accessibility.md`
+3. Digital Strategy & Roadmapping — `03-digital-strategy-roadmapping.md`
+4. Evidence-Driven Decisions — `04-evidence-driven-decisions.md`
+5. Clinical Safety & Risk Management — `05-clinical-safety.md`
+6. Information Governance, Data Protection & Cyber Security — `06-information-governance-cyber.md`
+7. Data Ethics, Consent & Public Trust — `07-data-ethics-consent-trust.md`
+8. Digital Inclusion & Accessibility — `08-digital-inclusion-accessibility.md`
+9. Safeguarding in Digital Services — `09-safeguarding-digital-services.md`
 
 **Part II — Managing the Flow of Work**
-7. Work Intake — `07-work-intake.md`
-8. Work Triage — `08-work-triage.md`
-9. Work Prioritisation — `09-work-prioritisation.md`
+10. Work Intake — `10-work-intake.md`
+11. Work Triage — `11-work-triage.md`
+12. Work Prioritisation — `12-work-prioritisation.md`
 
 **Part III — The Delivery Lifecycle**
-10. User Research & Service Design — `10-user-research-service-design.md`
-11. Discovery Phases — `11-discovery-phases.md`
-12. Delivery Lifecycles — `12-delivery-lifecycles.md`
-13. Interoperability & Data Standards — `13-interoperability-data-standards.md`
-14. Service Management & Live Operations — `14-service-management-operations.md`
+13. User Research & Service Design — `13-user-research-service-design.md`
+14. Patient & Citizen-Facing Digital Services — `14-patient-citizen-facing-services.md`
+15. Discovery Phases — `15-discovery-phases.md`
+16. Delivery Lifecycles — `16-delivery-lifecycles.md`
+17. Testing & Quality Assurance — `17-testing-quality-assurance.md`
+18. Service Management & Live Operations — `18-service-management-operations.md`
+19. Business Continuity & Disaster Recovery — `19-business-continuity-disaster-recovery.md`
 
-**Part IV — Modes of Delivery**
-15. Product-Led Work — `15-product-led-work.md`
-16. Project-Led Work — `16-project-led-work.md`
-17. Programme-Led Work — `17-programme-led-work.md`
-18. Enterprise Project Portfolio Management (EPPM) — `18-eppm.md`
-19. Enterprise Resource Planning (ERP) — `19-erp.md`
+**Part IV — Technology, Architecture & Data**
+20. Technical Architecture, Cloud & Legacy — `20-technical-architecture-cloud-legacy.md`
+21. Interoperability & Data Standards — `21-interoperability-data-standards.md`
+22. Data, Analytics & Population Health Management — `22-data-analytics-population-health.md`
 
-**Part V — Money, Value & Governance**
-20. Financial Management & Business Cases — `20-financial-management-business-cases.md`
-21. Health Economics — `21-health-economics.md`
-22. Procurement & Commercial — `22-procurement-commercial.md`
-23. Governance & Assurance — `23-governance-assurance.md`
+**Part V — Modes of Delivery**
+23. Product-Led Work — `23-product-led-work.md`
+24. Project-Led Work — `24-project-led-work.md`
+25. Programme-Led Work — `25-programme-led-work.md`
+26. Enterprise Project Portfolio Management (EPPM) — `26-eppm.md`
+27. Enterprise Resource Planning (ERP) — `27-erp.md`
 
-**Part VI — People, Teams & Workforce**
-24. Team Structures, Roles & Responsibilities — `24-team-structures-roles.md`
-25. Workforce Planning — `25-workforce-planning.md`
-26. Workforce Strategy — `26-workforce-strategy.md`
-27. People & Organisational Development — `27-people-org-development.md`
+**Part VI — Money, Value & Governance**
+28. Financial Management & Business Cases — `28-financial-management-business-cases.md`
+29. Health Economics — `29-health-economics.md`
+30. Procurement & Commercial — `30-procurement-commercial.md`
+31. Governance & Assurance — `31-governance-assurance.md`
 
-**Part VII — Change & Innovation**
-28. Phasing in Innovation — `28-phasing-innovation.md`
-29. Change Management — `29-change-management.md`
-30. AI & Emerging Technology Governance — `30-ai-emerging-technology.md`
-31. Sustainability & Net Zero — `31-sustainability-net-zero.md`
+**Part VII — People, Teams & Workforce**
+32. Team Structures, Roles & Responsibilities — `32-team-structures-roles.md`
+33. Workforce Planning — `33-workforce-planning.md`
+34. Workforce Strategy — `34-workforce-strategy.md`
+35. People & Organisational Development — `35-people-org-development.md`
+36. Workforce Equality, Diversity & Inclusion — `36-workforce-edi.md`
 
-**Part VIII — Partnerships & Government**
-32. Collaborating with Partner Organisations — `32-collaborating-partner-organizations.md`
-33. Working with Local & National Governments — `33-working-with-governments.md`
+**Part VIII — Change & Innovation**
+37. Phasing in Innovation — `37-phasing-innovation.md`
+38. Change Management — `38-change-management.md`
+39. Communications & Engagement — `39-communications-engagement.md`
+40. AI & Emerging Technology Governance — `40-ai-emerging-technology.md`
+41. Sustainability & Net Zero — `41-sustainability-net-zero.md`
+42. Research & Real-World Evaluation — `42-research-real-world-evaluation.md`
 
-**Part IX — Measurement, Knowledge & Leadership**
-34. OKRs & KPIs — `34-okrs-kpis.md`
-35. Knowledge Management & Documentation — `35-knowledge-management.md`
-36. Visibility for the CEO & Senior Leaders — `36-leadership-visibility.md`
+**Part IX — Partnerships & Government**
+43. Collaborating with Partner Organisations — `43-collaborating-partner-organizations.md`
+44. Working with Local & National Governments — `44-working-with-governments.md`
+
+**Part X — Measurement, Improvement, Knowledge & Leadership**
+45. OKRs & KPIs — `45-okrs-kpis.md`
+46. Quality Improvement & Improvement Science — `46-quality-improvement.md`
+47. Knowledge Management & Documentation — `47-knowledge-management.md`
+48. Visibility for the CEO & Senior Leaders — `48-leadership-visibility.md`
 
 **Front matter:** Preface — `00-preface.md`
 **Reference:** Glossary — `GLOSSARY.md` · Index — `INDEX.md`

@@ -12,7 +12,7 @@ An operating model is distinctive in this domain because it must reconcile compe
 
 **The layers of an [operating model](https://en.wikipedia.org/wiki/Operating_model).** A useful TOM is a stack, each layer serving the one above:
 
-- **Strategy and outcomes** — the measurable population and service outcomes you exist to improve (often expressed as [OKRs](https://en.wikipedia.org/wiki/Objectives_and_key_results); see Chapter 3 — Evidence-Driven Decisions).
+- **Strategy and outcomes** — the measurable population and service outcomes you exist to improve (often expressed as [OKRs](https://en.wikipedia.org/wiki/Objectives_and_key_results); see Chapter 4 — Evidence-Driven Decisions).
 - **[Value streams](https://en.wikipedia.org/wiki/Value_stream)** — the end-to-end flows that deliver value to a user, e.g. "refer, triage, and treat a patient" — organised around the citizen's journey, not the org chart.
 - **Capabilities** — the things you must be able to do (identity, appointment booking, clinical documentation, analytics). Capabilities are stable even as solutions change.
 - **Teams** — the people organised to deliver capabilities and value streams (see Team Topologies below).
@@ -36,7 +36,7 @@ Designing top-down (strategy → value streams → capabilities) keeps teams and
 
 2. **Adopt a platform-plus-federation shape.** Provide shared capabilities centrally as a self-service platform, and let stream-aligned teams in trusts and places build on top. This gives you national consistency on safety and interoperability with local speed and ownership — the reconciliation the domain demands.
 
-3. **Fund products, not projects.** Move money from time-boxed projects to persistently funded product teams aligned to value streams. Project funding forces teams to disband at exactly the point they have learned the domain; product funding sustains the safety knowledge and iteration that health services need (see Chapter 15 — Product-Led Work).
+3. **Fund products, not projects.** Move money from time-boxed projects to persistently funded product teams aligned to value streams. Project funding forces teams to disband at exactly the point they have learned the domain; product funding sustains the safety knowledge and iteration that health services need (see Chapter 23 — Product-Led Work).
 
 4. **Make spend control proportionate and staged.** Use staged funding tied to evidence — release money at discovery, alpha, beta, and live gates rather than approving a whole programme up front. [GDS](https://en.wikipedia.org/wiki/Government_Digital_Service)-style spend controls and the NHS assurance route exist to prevent large sunk costs on unproven ideas; apply them as thresholds scaled to risk and value, not blanket bureaucracy.
 
