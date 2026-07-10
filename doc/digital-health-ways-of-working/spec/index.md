@@ -28,7 +28,7 @@ Chief executives and senior leaders; directors of digital and transformation; pr
 | `README.md` | Reader-facing front door + table of contents. Must list every chapter with correct number, title, and filename. |
 | `STYLE_GUIDE.md` | The prose/formatting contract every chapter author follows. Subordinate to this spec. |
 | `00-preface.md` | Front matter. |
-| `NN-slug.md` | The 63 chapters (see manifest, §4). |
+| `PP.CC-slug.md` | The 63 chapters. Filenames are **sortable zero-padded decimals** — a two-digit part number, a dot, a two-digit within-part number, then the slug (e.g. `01.00-introduction.md`, `03.10-emergency-preparedness-response.md`) — so a plain lexical sort lists chapters in reading order. See manifest, §4. |
 | `GLOSSARY.md` | A–Z definitions of key terms, Wikipedia-linked, each pointing to its home chapter. |
 | `INDEX.md` | A–Z concepts/frameworks → chapter numbers (numbers are **chapter numbers, not pages**). |
 | `_sources/` | Raw source material used for grounding (e.g. workforce-strategy text). Not shipped as chapters. |
@@ -59,7 +59,7 @@ Every chapter uses these headings, in this order. This is the contract the matur
 
 ## 4. Chapter manifest
 
-63 chapters in 10 parts, numbered by part and within-part (section.chapter, e.g. `1.0`, `1.1`), plus front and reference matter. Numbers, titles, and filenames are canonical — `README.md` must match exactly.
+63 chapters in 10 parts, numbered by part and within-part (section.chapter, e.g. `1.0`, `1.1`), plus front and reference matter. Filenames are **sortable zero-padded decimals** of the form `PP.CC-slug.md` (two-digit part, dot, two-digit within-part, slug), so files sort in reading order; the heading and table of contents use the natural form (`Chapter 1.0`, `Chapter 3.10`). Numbers, titles, and filenames are canonical — `README.md` must match exactly.
 
 **Part 1 — Foundations**
 1.0. Ways of Working in Digital Health & Care — `01.00-introduction.md`
