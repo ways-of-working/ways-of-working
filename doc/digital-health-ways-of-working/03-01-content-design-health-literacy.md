@@ -12,7 +12,7 @@ This is not a minor usability point. Poor comprehension is linked to missed appo
 
 ## Core concepts
 
-Content design is a discipline, popularised by the UK [Government Digital Service](https://en.wikipedia.org/wiki/Government_Digital_Service) (GDS) and adopted by NHS Digital and NHS England, that treats writing as design: you decide what a person needs to complete a task, then choose the words, order, and format that meet that need in the simplest way — which is sometimes prose, but often a list, a table, a step-by-step, or no content at all. It starts from evidence about user needs rather than from what an organisation wants to say.
+Content design is a discipline, popularized by the UK [Government Digital Service](https://en.wikipedia.org/wiki/Government_Digital_Service) (GDS) and adopted by NHS Digital and NHS England, that treats writing as design: you decide what a person needs to complete a task, then choose the words, order, and format that meet that need in the simplest way — which is sometimes prose, but often a list, a table, a step-by-step, or no content at all. It starts from evidence about user needs rather than from what an organization wants to say.
 
 [Plain language](https://en.wikipedia.org/wiki/Plain_language) — in English, [plain English](https://en.wikipedia.org/wiki/Plain_English) — is writing whose wording, structure, and design let the intended reader find what they need, understand it, and use it, on first reading. It is not "dumbing down"; it is precision that respects the reader's time and effort.
 
@@ -26,7 +26,7 @@ Accessible content is content that works for people regardless of disability or 
 
 ## Best practices
 
-1. **Start from the user need and the task, not the message.** Before writing anything, be able to state, in one sentence, what the person is trying to do and what they need to know to do it. Content that exists to protect the organisation, list every caveat, or reproduce a policy is content that fails the person. Design the smallest thing that lets them succeed, and cut everything that does not serve that task.
+1. **Start from the user need and the task, not the message.** Before writing anything, be able to state, in one sentence, what the person is trying to do and what they need to know to do it. Content that exists to protect the organization, list every caveat, or reproduce a policy is content that fails the person. Design the smallest thing that lets them succeed, and cut everything that does not serve that task.
 
 2. **Write in plain language and check the reading age.** Aim for short sentences, common words, active voice, and one idea per sentence. Use readability tools such as Flesch–Kincaid or SMOG as a quick signal, targeting roughly a reading age of nine to eleven for general public content, lower for high-stakes or crisis content. Treat the score as a smoke alarm, not a certificate — a text can score well and still be wrong, ambiguous, or missing the one thing the reader needed.
 
@@ -44,11 +44,17 @@ Accessible content is content that works for people regardless of disability or 
 
 ## Questions to discuss with your team
 
-1. **Do we actually know the reading age and comprehension of our highest-stakes content, or are we guessing?** Most organisations cannot say what reading age their appointment letters, consent forms, or medication instructions are written at, let alone whether patients understand them. Pick your ten highest-consequence pieces of content — the ones where misunderstanding causes real harm — and measure them: run readability scores, but more importantly run comprehension testing with real users. Ask people to explain, in their own words, what the content means and what they would do next. You will usually find gaps between what the content says and what people take from it. Decide who owns closing those gaps, and how you will know they are closed. This is a clinical-safety exercise, not a copy-editing one.
+1. **Do we actually know the reading age and comprehension of our highest-stakes content, or are we guessing?** Most organizations cannot say what reading age their appointment letters, consent forms, or medication instructions are written at, let alone whether patients understand them. Pick your ten highest-consequence pieces of content — the ones where misunderstanding causes real harm — and measure them: run readability scores, but more importantly run comprehension testing with real users. Ask people to explain, in their own words, what the content means and what they would do next. You will usually find gaps between what the content says and what people take from it. Decide who owns closing those gaps, and how you will know they are closed. This is a clinical-safety exercise, not a copy-editing one.
 
 2. **Who is allowed to publish content, and what stops unsafe or inaccessible content going live?** In many services, content is written by whoever happens to own the system — a developer, a clinician, an administrator — with no content design skill, no style guide, and no accessibility check. Discuss where content sits in your delivery lifecycle: is there a content designer involved, is there a shared style guide, is there a review step that checks plain language and accessibility before publish? Consider what your equivalent of a clinical-safety sign-off is for content, and whether it exists at all. Talk honestly about the trade-off between speed and safety, and about who is accountable when content causes harm. The goal is a repeatable path to good content, not heroics from individuals.
 
 3. **How do we serve the people our content currently fails, and are we measuring that?** Averages hide exclusion: content that works for 80% of users can be completely failing the 20% who most need the service. Discuss which groups your current content excludes — people with low literacy or numeracy, Deaf BSL users, people who do not read English, people with learning disabilities, people in crisis — and whether you provide easy read, translations, BSL video, and alternative formats as standard. Ask whether you are meeting the Accessible Information Standard in practice, not just on paper. Consider how you would even detect that a group is being excluded, given they may simply drop out silently. Agree what you will measure and who represents these users when decisions are made, linking this to Chapter 1.9 — Digital Inclusion & Accessibility.
+
+4. **When content and clinical accuracy pull in opposite directions, how do we decide?** Plain language and clinical precision are usually allies, but sometimes they conflict: a clinician insists on a technical term for exactness, legal wants a caveat that lengthens and clouds the message, or a safety-netting instruction has to name a symptom the reader may not understand. If you always defer to the clinician or lawyer you will publish content people cannot use; if you always simplify you risk stripping out a distinction that keeps someone safe. Discuss how you resolve these tensions in practice — who is in the room, what evidence settles it, and whether comprehension testing is allowed to override an expert's preference. Consider concrete cases: rewording a medication instruction, softening a threatening non-attendance warning, or explaining a risk figure. An honest answer names a decision-making process, not a default winner, and shows that both comprehension and clinical correctness are treated as safety requirements rather than one being a nice-to-have.
+
+5. **Who owns content after it is published, and how do we keep it accurate as clinical guidance changes?** Content is often treated as done at launch, but a medication direction, a screening interval, or a referral route can become dangerously wrong when clinical guidance or a pathway changes and nobody updates the words. Discuss whether every high-stakes piece of content has a named owner, a review cycle, and a way to find and fix all the places a fact appears — or whether the same statement is copied across letters, portals, and leaflets with no single source of truth. Ask what happens when a guideline changes: who is told, how quickly the content follows, and how you would even know a page had gone stale. Consider whether structured, reusable content would let you change something once rather than hunting for every copy. An honest answer confronts the unglamorous reality that most content decays silently, and sets out how you detect and prevent that decay.
+
+6. **Are we treating AI-generated and AI-translated content with the caution that patient safety demands?** Teams are increasingly tempted to draft patient content, summarize clinical information, or translate at scale using large language models, because it is fast and cheap. The danger is that fluent, confident output masks errors that a stressed reader will act on — a wrong dose, an invented reassurance, a mistranslated instruction — and the English-speaking team never sees the mistake. Discuss where, if anywhere, you allow generated or machine-translated content, and what human clinical and linguistic checking is mandatory before it reaches a patient. Consider the difference between using AI to triage or draft internally and using it to publish unreviewed content that tells someone what to do about their health. An honest answer sets a clear line, names who is accountable for checking, and treats an unverified machine output the same way you would treat an unqualified person writing clinical instructions.
 
 ## In practice: a health & care example
 
@@ -60,11 +66,15 @@ The content designer rewrites against the NHS content style guide and tests each
 
 Three months on, non-attendance in the cohort has fallen below the letter baseline, complaints have dropped, and the Deaf patient has used the service independently for the first time. The clinical safety officer records the content changes as a risk control in the service's safety case. The words were the intervention.
 
-## Three sector lenses
+## Sector lenses
 
 ### Startup
 
 A health-tech startup can build content quality into its DNA cheaply, because it has no legacy content to unpick and can hire or contract a content designer early. The risk is that founders treat content as marketing copy — persuasive, on-brand, benefit-led — rather than as task-focused design for people who may be unwell. Adopt the NHS content style guide from day one, set a reading-age target, and put comprehension testing into your usability sessions from the first prototype. If you are pursuing NHS or public sector contracts, WCAG 2.2 AA and the Accessible Information Standard are entry requirements, not differentiators, so build to them now rather than retrofitting under procurement pressure.
+
+### Small business
+
+An established small provider — a GP practice, a community pharmacy, a care home, a domiciliary-care agency, a single-site clinic, or a small health-tech supplier past the startup stage — has real patients and the same legal duties as a hospital trust, but no content designer, no style guide, and often one person doing IT alongside another job. The practical risk is that letters, consent forms, texts, and website content are written by whoever has time, in local jargon, and that easy read, translations, and BSL are simply not offered, quietly breaching the Accessible Information Standard. You do not need to build capability from scratch: adopt the free NHS content style guide and reuse its ready-made patterns rather than writing from a blank page, and use the NHS reading-age and accessibility guidance as your checklist. Prioritize your handful of highest-stakes items — medication instructions, appointment and safety-netting messages — and get those into plain language and accessible formats first, using community or voluntary-sector translators for your local languages rather than unchecked machine translation.
 
 ### Enterprise
 
@@ -76,7 +86,7 @@ National and system bodies set the standards that everyone else inherits, so the
 
 ## Common failure modes
 
-- **Writing for the organisation, not the reader.** Content that lists every caveat, protects the institution, or reproduces policy, instead of helping the person complete their task.
+- **Writing for the organization, not the reader.** Content that lists every caveat, protects the institution, or reproduces policy, instead of helping the person complete their task.
 - **Jargon and unexplained acronyms.** "DNA", "ambulatory", "triage", "referral pathway", "clinical validation" — insider language that readers either misunderstand or find alienating.
 - **Confusing the reader with numbers.** Bare percentages, inconsistent denominators, relative risk without absolute risk, and doses or dates that force the reader to calculate.
 - **Accessibility as an afterthought.** Easy read, translations, and BSL produced reactively, on request, or not at all — breaching the Accessible Information Standard and excluding the people who most need the service.
@@ -87,13 +97,13 @@ National and system bodies set the standards that everyone else inherits, so the
 
 ## Maturity model
 
-| Dimension | Initial | Developing | Defined | Optimising |
-|---|---|---|---|---|
-| Plain language & reading age | Content written ad hoc by system owners; no reading-age awareness | Some authors trained; readability checked occasionally | Style guide adopted; reading-age targets set for content types | Reading age measured and improved continuously; content designers embedded in teams |
-| Accessibility & alternative formats | No easy read, translations, or BSL; frequent WCAG failures | Formats produced reactively on request; partial WCAG compliance | Accessible Information Standard met; WCAG 2.2 AA by default | Accessible formats co-designed with the communities they serve; needs shared across care settings |
-| Numeracy & risk communication | Numbers copied from clinical sources unedited | Some effort to simplify percentages | Standards for expressing risk, dose, and results in the style guide | Numerical content routinely tested with low-numeracy users |
-| Testing with users | Content signed off internally only | Occasional usability testing on some content | Comprehension testing routine, including excluded users | Continuous testing drives iteration; exclusion actively detected and closed |
-| Governance & safety | Anyone can publish; no review | Editorial review exists but is inconsistent | Publishing workflow with accessibility and clinical-safety checks | Content treated as a safety-critical asset with owners, versioning, and audit |
+| Dimension | Initiate | Develop | Standardize | Manage | Orchestrate |
+|---|---|---|---|---|---|
+| Plain language & reading age | Content written ad hoc by system owners; no reading-age awareness | Some authors trained; readability checked occasionally | Style guide adopted; reading-age targets set for content types | Reading age tracked against targets across content types; results reported and actively managed by named owners | Reading age measured and improved continuously; content designers embedded in teams |
+| Accessibility & alternative formats | No easy read, translations, or BSL; frequent WCAG failures | Formats produced reactively on request; partial WCAG compliance | Accessible Information Standard met; WCAG 2.2 AA by default | Accessibility conformance and format coverage audited and assured, with gaps tracked and closed to target | Accessible formats co-designed with the communities they serve; needs shared across care settings |
+| Numeracy & risk communication | Numbers copied from clinical sources unedited | Some effort to simplify percentages | Standards for expressing risk, dose, and results in the style guide | Adherence to numeracy standards measured and enforced; risk and dose comprehension tracked as a safety metric | Numerical content routinely tested with low-numeracy users |
+| Testing with users | Content signed off internally only | Occasional usability testing on some content | Comprehension testing routine, including excluded users | Comprehension and exclusion metrics tracked against targets and reviewed in governance | Continuous testing drives iteration; exclusion actively detected and closed |
+| Governance & safety | Anyone can publish; no review | Editorial review exists but is inconsistent | Publishing workflow with accessibility and clinical-safety checks | Publishing controls assured and audited; content risks logged and managed as safety controls with KPIs | Content treated as a safety-critical asset with owners, versioning, and audit |
 
 ## Checklist
 

@@ -1,8 +1,8 @@
 # Ways of Working for Digital Health & Care
 
-### A practical handbook of best practices for delivering digital services in health and social care organisations
+### A practical handbook of best practices for delivering digital services in health and social care organizations
 
-This book is written for the people who lead and run digital delivery in health and care: chief executives and senior leaders, directors of digital and transformation, product and delivery leads, clinical and care professionals moving into digital roles, programme and portfolio managers, and the operational managers who make services work every day. Its centre of gravity is the UK's National Health Service (NHS) and social care system, but its principles transfer to any publicly-accountable, safety-critical, partnership-dependent health organisation anywhere.
+This book is written for the people who lead and run digital delivery in health and care: chief executives and senior leaders, directors of digital and transformation, product and delivery leads, clinical and care professionals moving into digital roles, programme and portfolio managers, and the operational managers who make services work every day. Its centre of gravity is the UK's National Health Service (NHS) and social care system, but its principles transfer to any publicly-accountable, safety-critical, partnership-dependent health organization anywhere.
 
 The premise is simple: **in health and care, *how* you work is a clinical-safety, equity, and public-trust issue, not merely an efficiency one.** Good ways of working get safe, equitable services to people faster and waste less public money. Poor ones cause harm. This book collects the best available practice — from the NHS and GOV.UK service standards, from portfolio, programme and product disciplines, from change and improvement science, and from the health-and-care workforce evidence base — into one coherent operating playbook.
 
@@ -30,7 +30,7 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 ### Part 2 — Managing the Flow of Work
 - [Chapter 2.0 — Work Intake](02-00-work-intake.md)
 - [Chapter 2.1 — Work Triage](02-01-work-triage.md)
-- [Chapter 2.2 — Work Prioritisation](02-02-work-prioritisation.md)
+- [Chapter 2.2 — Work Prioritization](02-02-work-prioritization.md)
 
 ### Part 3 — The Delivery Lifecycle
 - [Chapter 3.0 — User Research & Service Design](03-00-user-research-service-design.md)
@@ -44,6 +44,7 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 - [Chapter 3.8 — Service Management & Live Operations](03-08-service-management-operations.md)
 - [Chapter 3.9 — Business Continuity & Disaster Recovery](03-09-business-continuity-disaster-recovery.md)
 - [Chapter 3.10 — Emergency Preparedness, Resilience & Response](03-10-emergency-preparedness-response.md)
+- [Chapter 3.11 — Telehealth, Remote Consultation & Virtual Wards](03-11-telehealth-virtual-wards.md)
 
 ### Part 4 — Technology, Architecture & Data
 - [Chapter 4.0 — Technical Architecture, Cloud & Legacy](04-00-technical-architecture-cloud-legacy.md)
@@ -52,6 +53,12 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 - [Chapter 4.3 — Interoperability & Data Standards](04-03-interoperability-data-standards.md)
 - [Chapter 4.4 — Connected Devices, IoT & Clinical Engineering](04-04-connected-devices-iot.md)
 - [Chapter 4.5 — Data, Analytics & Population Health Management](04-05-data-analytics-population-health.md)
+- [Chapter 4.6 — Electronic Patient Records & Clinical Systems](04-06-electronic-patient-records.md)
+- [Chapter 4.7 — Clinical Decision Support & Clinical Informatics](04-07-clinical-decision-support.md)
+- [Chapter 4.8 — Electronic Prescribing & Medicines Management](04-08-electronic-prescribing-medicines.md)
+- [Chapter 4.9 — Data Quality & Master Data Management](04-09-data-quality-mdm.md)
+- [Chapter 4.10 — Secure Data Environments & Research Data Access](04-10-secure-data-environments.md)
+- [Chapter 4.11 — Genomics & Precision-Medicine Data](04-11-genomics-precision-medicine.md)
 
 ### Part 5 — Modes of Delivery
 - [Chapter 5.0 — Product-Led Work](05-00-product-led-work.md)
@@ -63,9 +70,11 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 ### Part 6 — Money, Value & Governance
 - [Chapter 6.0 — Financial Management & Business Cases](06-00-financial-management-business-cases.md)
 - [Chapter 6.1 — Health Economics](06-01-health-economics.md)
-- [Chapter 6.2 — Benefits Realisation & Value Management](06-02-benefits-realisation-value.md)
+- [Chapter 6.2 — Benefits Realization & Value Management](06-02-benefits-realization-value.md)
 - [Chapter 6.3 — Procurement & Commercial](06-03-procurement-commercial.md)
 - [Chapter 6.4 — Governance & Assurance](06-04-governance-assurance.md)
+- [Chapter 6.5 — Technology Cost Management & Cloud FinOps](06-05-technology-cost-finops.md)
+- [Chapter 6.6 — Vendor & Service Integration Management (SIAM)](06-06-vendor-siam.md)
 
 ### Part 7 — People, Teams & Workforce
 - [Chapter 7.0 — Team Structures, Roles & Responsibilities](07-00-team-structures-roles.md)
@@ -73,7 +82,7 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 - [Chapter 7.2 — Workforce Planning](07-02-workforce-planning.md)
 - [Chapter 7.3 — Workforce Strategy](07-03-workforce-strategy.md)
 - [Chapter 7.4 — Digital Skills & Capability Building](07-04-digital-skills-capability.md)
-- [Chapter 7.5 — People & Organisational Development](07-05-people-org-development.md)
+- [Chapter 7.5 — People & Organizational Development](07-05-people-org-development.md)
 - [Chapter 7.6 — Workforce Equality, Diversity & Inclusion](07-06-workforce-edi.md)
 
 ### Part 8 — Change & Innovation
@@ -86,7 +95,7 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 - [Chapter 8.6 — Research & Real-World Evaluation](08-06-research-real-world-evaluation.md)
 
 ### Part 9 — Partnerships & Government
-- [Chapter 9.0 — Collaborating with Partner Organisations](09-00-collaborating-partner-organizations.md)
+- [Chapter 9.0 — Collaborating with Partner Organizations](09-00-collaborating-partner-organizations.md)
 - [Chapter 9.1 — Working with Local & National Governments](09-01-working-with-governments.md)
 - [Chapter 9.2 — Global & International Digital Health](09-02-global-international-digital-health.md)
 - [Chapter 9.3 — Digital in Adult Social Care](09-03-digital-adult-social-care.md)
@@ -106,12 +115,13 @@ The chapters are ordered but self-contained; each ends with a maturity model and
 - [Index](INDEX.md) — concepts and frameworks mapped to the chapters that cover them
 - [Style guide](STYLE_GUIDE.md) — the shared authoring contract
 - [Specification](spec/index.md) — the spec-driven source of truth for the book
+- [Spelling standard](spec/oxford-spelling.md) — Oxford spelling (`en-GB-oxendict`), with URL and citation protection rules
 
 ---
 
 ## What's in every chapter
 
-Each chapter follows the same structure so you can navigate and self-assess consistently: a one-sentence thesis; **why it matters in health and care**; core concepts (with Wikipedia links for further reading); numbered **best practices**; exactly three **questions to discuss with your team**; a worked health & care example; **three sector lenses** applying the topic to a *Startup*, an *Enterprise*, and a *Government* body; common failure modes; a four-level **maturity model**; an actionable **checklist**; **key sources**; and full **references**. The authoring rules live in the [style guide](STYLE_GUIDE.md); the canonical specification lives in [spec/index.md](spec/index.md).
+Each chapter follows the same structure so you can navigate and self-assess consistently: a one-sentence thesis; **why it matters in health and care**; core concepts (with Wikipedia links for further reading); numbered **best practices**; exactly six **questions to discuss with your team**; a worked health & care example; **four sector lenses** applying the topic to a *Startup*, a *Small business*, an *Enterprise*, and a *Government* body; common failure modes; a five-level **maturity model**; an actionable **checklist**; **key sources**; and full **references**. The authoring rules live in the [style guide](STYLE_GUIDE.md); the canonical specification lives in [spec/index.md](spec/index.md).
 
 ---
 
